@@ -14,7 +14,7 @@
 # Failure Infrastructures: Calculated Collapse and the Global Border Regime
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay using exhibition items from the [RISD Museum](https://risdmuseum.org/). Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image label="The Model in Repose" description="The Model in Repose" license="RISD Museum" url="https://risdmuseum.org/sites/default/files/museumplus/205426.jpg">
+<param ve-image label="The Model in Repose" description="The Model in Repose" license="RISD Museum" url="/img/Moria.jpg">
 
 
 # Henri Matisse, The Model in Repose, 1922
