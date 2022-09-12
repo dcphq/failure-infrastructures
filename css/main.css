@@ -4,7 +4,8 @@ html {
 }
 
 body {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Carrois Gothic', sans-serif;
+  src: url(/fonts/CarroisGothic-Regular.ttf);
   margin: 0;
   background-color: white;
   color: #444;
