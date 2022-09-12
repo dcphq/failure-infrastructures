@@ -33,7 +33,7 @@ body {
   z-index: 1;
   overflow-y: scroll;
   background-color: #f8f8f8;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   padding: 420px 24px 24px 24px;
   /*scroll-behavior: smooth;*/
   overflow-wrap: break-word;
@@ -163,7 +163,7 @@ h1 {
 }
 .form-message {
   padding: 12px;
-  font-family: "Roboto",sans-serif;
+  font-family: "Carrois Gothic",sans-serif;
   font-size: 1.1rem;
 }
 .form-controls {
