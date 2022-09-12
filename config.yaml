@@ -1,5 +1,5 @@
 title: Failure Infrastructures
-tagline: A multimodal essay
+tagline:
 description:
 banner: /img/tonermap.png
 #favicon: <favicon url>
@@ -14,7 +14,7 @@ banner: /img/tonermap.png
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
-- label: Contact the Juncture team
+- label: Contact 
   icon: fas fa-envelope
   action: contact-us
 - label: View page source
