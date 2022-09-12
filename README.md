@@ -3,7 +3,7 @@
 <param ve-config 
        title="Failure Infrastructures: Calculated Collapse and the Global Border Regime"
        author="Dimitris C. Papadopoulos"
-       banner="http://maps.stamen.com/m2i/image/20220912/toner-background_hU5Kj7LG8ic" 
+       banner="img/tonermap.jpg" 
        layout="vertical">
          
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
