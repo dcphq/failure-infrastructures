@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  font-family: Carrois Gothic, sans-serif;
+  font-family: "Carrois Gothic SC", sans-serif;
   margin: 0;
   background-color: white;
   color: #444;
@@ -163,7 +163,7 @@ h1 {
 }
 .form-message {
   padding: 12px;
-  font-family: "Carrois Gothic",sans-serif;
+  font-family: "Carrois Gothic SC",sans-serif;
   font-size: 1.1rem;
 }
 .form-controls {
