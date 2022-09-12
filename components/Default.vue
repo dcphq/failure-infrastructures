@@ -8,7 +8,7 @@
       <ul class="menu">
 
         <template v-for="(navItem, idx) in nav">
-          <li v-if="(!navItem['if-authenticated'] || isAuthenticated) && (!navItem['if-admin'] || isAdmin)" 
+          <li v-if="(!navItem['if-authenticated'] || isAuthenticated) && (!navItem['if-admin'] || isAdmin)"
               :key="`nav-${idx}`"@click="doMenuAction(navItem)">
             <i v-if="navItem.icon" :class="navItem.icon"></i>{{ navItem.label }}
           </li>
@@ -24,7 +24,7 @@
           <li @click="doMenuAction({action:'view-markdown'})"><i class="fas fa-file-code"></i>View page markdown</li>
           <li @click="doMenuAction({action:'goto-github'})"><i class="fab fa-github"></i>View on GitHub</li>
 
-          <!-- 
+          <!--
           <template v-if="isAuthenticated">
             <hr>
             <li v-if="((contentSource.acct !== 'jstor-labs' && contentSource.repo !== 'juncture') || isAdmin)" @click="doMenuAction({action:'edit-page'})">
@@ -72,11 +72,11 @@
       </template>
 
       <div v-else-if="section.classes.has('footer')" v-html="section.html"></div>
-      
+
       <template v-else>
         <h1 v-if="section.heading" v-html="section.heading"></h1>
-        <div v-if="section.html" v-html="section.html"></div>          
-        
+        <div v-if="section.html" v-html="section.html"></div>
+
         <div v-if="section.cards" :class="Array.from(section.cards.classes).join(' ')">
 
           <template v-if="section.cards.classes.has('carousel')">
@@ -104,7 +104,7 @@
               <div v-if="card.content.length > 0" class="card-text">
                 <input type="checkbox" :id="`exp-${sidx}-${cidx}`">
                 <div class="clamp-wrapper">
-                  <p v-for="(contentItem, ccidx) in card.content" :key="`${sidx}-${cidx}-${ccidx}`" :id="contentItem.id" 
+                  <p v-for="(contentItem, ccidx) in card.content" :key="`${sidx}-${cidx}-${ccidx}`" :id="contentItem.id"
                     :class="Array.from(contentItem.classes).join(' ')"
                     v-html="contentItem.html"
                   ></p>
@@ -118,13 +118,13 @@
         <template v-if="section.subsections">
           <div v-for="(subsection, cidx) in section.subsections" :key="`${sidx}-${cidx}`"
             :id="subsection.id"
-            :class="Array.from(subsection.classes).join(' ')" 
+            :class="Array.from(subsection.classes).join(' ')"
             v-html="subsection.html"
           ></div>
         </template>
 
       </template>
-           
+
     </section>
 
     <div id="home-contact-form" class="modal-form" style="display: none;">
@@ -201,14 +201,14 @@ module.exports = {
     parseHtml(html) {
       let root = new DOMParser().parseFromString(html, 'text/html').children[0].children[1]
       return Array.from(root.querySelectorAll(':scope > section')).map(section => {
-        
+
         let classes = new Set(section.className.split(' ').filter(cls => cls !== ''))
         let backgroundImage = section.querySelector('p.background-image > img')
         let html = segments = Array.from(section.querySelectorAll(':scope > .segment'))
           .filter(el => !el.querySelector('.background-image'))
           .map(el => el.innerHTML).join(' ')
         let cards, subsections
-        
+
         let cardsSection = section.querySelector(':scope > section.cards')
         if (cardsSection) {
           // cardsSection.className.split(' ').filter(cls => cls !== '').forEach(cls => classes.add(cls))
@@ -233,8 +233,8 @@ module.exports = {
                   .filter(cc => cc.textContent)
                   .map(cc => {
                     return {
-                      html: cc.tagName === 'P' ? cc.innerHTML : cc.outerHTML, 
-                      id: cc.id, 
+                      html: cc.tagName === 'P' ? cc.innerHTML : cc.outerHTML,
+                      id: cc.id,
                       classes: new Set(cc.className.split(' ').filter(cls => cls !== ''))
                     }
                   })
@@ -242,18 +242,18 @@ module.exports = {
               })
           }
         }
-          
+
         if (!cards) {
           subsections = Array.from(section.querySelectorAll(':scope > section'))
             .map(el => { return { html: el.innerHTML, classes: new Set() } })
-          //if (subsections.length > 0) {        
+          //if (subsections.length > 0) {
           //  content.push({classes: new Set(section.querySelector(':scope > section').className.split(' ').filter(cls => cls !== '')), sections: subsections})
           //}
         }
 
         let result = {
           heading: section.querySelector('h1, h2, h3, h4, h5, h6').innerHTML,
-          classes, 
+          classes,
           html
         }
         if (section.id) result.id = section.id
@@ -622,10 +622,10 @@ section.footer {
 	-webkit-line-clamp: unset;
 }
 .clamp input:checked ~ label,
-.clamp-5 input:checked ~ label, 
-.clamp-10 input:checked ~ label, 
-.clamp-15 input:checked ~ label, 
-.clamp-20 input:checked ~ label, 
+.clamp-5 input:checked ~ label,
+.clamp-10 input:checked ~ label,
+.clamp-15 input:checked ~ label,
+.clamp-20 input:checked ~ label,
 .clamp-wrapper:not(.truncated) ~ label {
   display: none;
 }
@@ -702,7 +702,7 @@ section.heading > div {
 
 section.heading p {
   font-size: 2.5em;
-  font-family: Georgia, 'serif';
+  font-family: Carrois Gothic, 'sans-serif';
   font-weight: normal;
   line-height: 1.2;
   padding: 0;
