@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  font-family: Roboto, sans-serif;
+  font-family: Carrois Gothic, sans-serif;
   margin: 0;
   background-color: white;
   color: #444;
@@ -364,7 +364,7 @@ div.segment p {
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 5;
-  -webkit-box-orient: vertical;  
+  -webkit-box-orient: vertical;
 }
 
 .tippy-content pre {
@@ -476,7 +476,7 @@ span.seg-link svg:hover {
   max-width: 33%;
 }
 
-.left { 
+.left {
   float: left !important;
   margin: 8px 18px 0 0 !important;
 }
