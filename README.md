@@ -12,7 +12,8 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q60772"> <!-- Ursula von der Leyen -->
 
-
+-->
+<param ve-entity eid="Q21786841"> <!-- Frontex -->
 
 [TOC]
 
