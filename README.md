@@ -15,6 +15,8 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 # ABOUT
 
+This is an essay.
+
 <param ve-image label="Satellite image" url=/img/sat2.png>
 
 ------
