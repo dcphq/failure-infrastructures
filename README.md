@@ -77,7 +77,7 @@ url=/img/Moria_2015.jpg>
 
 Moria camp
 <param ve-map 
-basemap="Stamen_Toner"
+basemap="tpner-lite"
 center="Q30752848" zoom="18" prefer-geojson>
 
 
