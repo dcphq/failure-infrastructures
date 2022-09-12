@@ -65,7 +65,7 @@ The crisis narrative in relation to migration[^10] does not only work on the per
 
 In the summer of 2015 I carried out ethnographic fieldwork in the Moria refugee camp on the island of Lesvos, Greece. 
 
-<param ve-image label="Moria, 2015/Moria_2015.jpg>
+<param ve-image label="Moria, 2015/Moria_2015.jpeg>
 
 
 
