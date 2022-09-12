@@ -76,7 +76,7 @@ url=/img/Moria_2015.jpg>
 ## Location
 
 Moria camp
-<param ve-map center="Q30752848" basemap="Esri_Terrain"
+<param ve-map basemap="Esri_Terrain"
 zoom="18">
 
 
