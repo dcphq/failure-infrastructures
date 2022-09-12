@@ -15,10 +15,11 @@
 
 # **ON THE BRINK: COLLAPSE AS CODE**
 
-<param ve-video id="nf2rTb49H1c">
-In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1]tasked to "*address and allay legitimate fears and concerns about the impact of irregular migration on our economy and society*."[^2]
 
- "Our way of life" as code for whiteness that is constantly subject to the external threat of irregular migration is nothing new. The U.S. Customs and Border Protection website informs users that "*the U.S. Border Patrol has a long and rich history of helping to secure and protect the American way of life.*"[^3]
+In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1]tasked to "*address and allay legitimate fears and concerns about the impact of irregular migration on our economy and society*."[^2]
+"Our way of life" as code for whiteness that is constantly subject to the external threat of irregular migration is nothing new. The U.S. Customs and Border Protection website informs users that "*the U.S. Border Patrol has a long and rich history of helping to secure and protect the American way of life.*"[^3]
+
+<param ve-video id="nf2rTb49H1c">
 
 
 
