@@ -21,8 +21,6 @@ In September 2019, Ursula von der Leyen, then President-Elect of the European Co
 
 <param ve-video id="nf2rTb49H1c">
 
-
-
 Of course, even a brief dive into the history of the U.S. Border Patrol is enough to reveal a legacy of violence, human rights violations, and racist policies.[^4] 
  
 This code language was made evidently clear recently in the way Eastern European countries welcomed and supported thousands of Ukrainian refugees who, as some commentators put it, are "civilized" or "look like us."[^5] 
