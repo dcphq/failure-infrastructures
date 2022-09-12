@@ -17,7 +17,7 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 [TOC]
 
-Go to [link] (#on-the-brink-collapse-as-code) go to
+[The camp] (#the-camp) 
 
 
 
