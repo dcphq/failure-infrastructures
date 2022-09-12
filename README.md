@@ -16,7 +16,9 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 
 
-
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic&display=swap');
+</style>
 
 
 
