@@ -67,7 +67,7 @@ In the summer of 2015 I carried out ethnographic fieldwork in the Moria refugee 
 
 <param ve-image 
 label="Moria, 2015
-url="img/Moria_2015.jpg">
+url=/img/Moria_2015.jpg>
 
 
 
@@ -85,8 +85,8 @@ url="img/Moria_2015.jpg">
 
 ## Location
 
-RISD Museum, Providence, RI
-<param ve-map center="Q2148186" zoom="18" prefer-geojson>
+Moria camp
+<param ve-map center="Q30752848" zoom="18" prefer-geojson>
 
 ## Detail
 Let's look closer at the image.
