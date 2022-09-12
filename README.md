@@ -22,6 +22,12 @@ In September 2019, Ursula von der Leyen, then President-Elect of the European Co
 
 
 
+<param ve-iframe id="way of life" 
+src="https://www.cbp.gov/border-security/along-us-borders" style="border:0px #ffffff none;" name="way of life" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+
+
+
+
 
 ## Image example
 
@@ -60,3 +66,4 @@ This is an example of an annotation
 
 [^2]: Sophie in ’t Veld, “Threat to ‘European Way of Life’ Is Not Migrants. It’s Populists,” *Politico*, September 13, 2019.
 [^3]: https://www.cbp.gov/border-security/along-us-borders 
+
