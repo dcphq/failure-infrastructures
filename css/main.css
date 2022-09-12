@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  font-family: 'Carrois Gothic', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
   margin: 0;
   background-color: white;
   color: #444;
@@ -111,8 +111,8 @@ body {
 h1 {
   margin: 1rem 0;
   font-size: 2.5rem;
-  font-family: 'Carrois Gothic', sans-serif;
-  font-weight: normal;
+  font-family: 'Roboto Mono', sans-serif;
+  -weight: normal;
   line-height: 1;
 }
 
@@ -163,7 +163,7 @@ h1 {
 }
 .form-message {
   padding: 12px;
-  font-family: 'Carrois Gothic', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
   font-size: 1.1rem;
 }
 .form-controls {
