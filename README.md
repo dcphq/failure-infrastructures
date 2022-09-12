@@ -15,7 +15,7 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 # **ABOUT**
 
-This is an essay. It is about [the camp](##the-camp)
+This is an essay. It is about [the camp](#the-camp)
 
 <param ve-image label="Satellite image" url=/img/sat2.png>
 
