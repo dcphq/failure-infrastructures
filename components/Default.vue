@@ -387,6 +387,8 @@ section h1 {
 }
 
 section p {
+font-family: Carrois Gothic, 'sans-serif';
+src: url(/fonts/CarroisGothic-Regular.ttf);
   font-size: 18px;
   font-weight: 300;
   line-height: 1.4;
