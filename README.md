@@ -4,7 +4,7 @@
        title="Failure Infrastructures: Calculated Collapse and the Global Border Regime"
        author="Dimitris C. Papadopoulos"
        banner="img/tonermap.jpg" 
-       layout="vertical">
+       layout="horizontal">
          
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
