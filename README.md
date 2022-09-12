@@ -13,6 +13,8 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 <param ve-entity eid="Q60772"> <!-- Ursula von der Leyen -->
 <param ve-entity eid="Q21786841"> <!-- Frontex -->
 
+<param ve-entity eid="Q30752848"> <!-- Moria refugee camp -->
+
 # **ABOUT**
 
 This is an essay. It is about [the camp](#the-camp)
