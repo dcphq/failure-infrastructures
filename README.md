@@ -13,7 +13,7 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 <param ve-entity eid="Q60772"> <!-- Ursula von der Leyen -->
 <param ve-entity eid="Q21786841"> <!-- Frontex -->
 
-[The Camp](#the-camp)
+
 
 # **ON THE BRINK: COLLAPSE AS CODE**
 
@@ -44,7 +44,8 @@ Holding the “shield” against migration as a political priority  is enabled b
 
 The crisis narrative in relation to migration[^10] does not only work on the performative level. Dualities of border crisis vs. protection or collapse vs. construction materialize on the ground in ways that feed the cyclical logic of crisis that migration policies are based on. 
 
-[toc]
+[The Camp](#the-camp)
+
 ------
 
 
