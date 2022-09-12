@@ -15,6 +15,8 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 
 
+[TOC]
+
 # **ON THE BRINK: COLLAPSE AS CODE**
 
 In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1]tasked to "*address and allay legitimate fears and concerns about the impact of irregular migration on our economy and society*."[^2]
