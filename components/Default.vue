@@ -380,7 +380,7 @@ html {
 
 section h1 {
   text-align: center;
-  font-family: Georgia, 'serif';
+  font-family: Carrois Gothic, 'sans-serif';
   font-size: 30px;
   margin-bottom: 40px;
 }
@@ -409,7 +409,7 @@ section .button a {
   border-radius: 50px;
   text-decoration: none;
   font-size: 24px;
-  font-family: Roboto, 'sans-serif';
+  font-family: Carrois Gothic, 'sans-serif';
   padding: 12px 48px;
   box-shadow: 0 3px 40px rgb(0 0 0 / 25%);
 }
@@ -430,7 +430,7 @@ section .button a {
   border-radius: 50px;
   text-decoration: none;
   font-size: 30px;
-  font-family: Roboto, 'sans-serif';
+  font-family: Carrois Gothic, 'sans-serif';
   padding: 16px 72px;
   box-shadow: 0px 3px 40px rgba(0, 0, 0, 0.25);
 }
@@ -543,7 +543,7 @@ section.footer {
 .horizontal .card h2 {
   margin-top: 0;
   grid-area: card-heading;
-  font-family: Georgia, 'serif';
+  font-family: Carrois Gothic, 'sans-serif';
   font-size: 30px;
   font-weight: normal;
 }
@@ -668,7 +668,7 @@ section:nth-child(odd) {
 
 section h1 {
   text-align: center;
-  font-family: Georgia, 'serif';
+  font-family: Carrois Gothic, 'sans-serif';
   font-size: 30px;
   margin-bottom: 40px;
 }
@@ -910,7 +910,7 @@ img.logo {
 }
 
 .carousel-slide-title {
-  font-family: Georgia, 'serif';
+  font-family: Carrois Gothic, 'sans-serif';
   font-size: 30px;
   font-weight: normal;
   text-align: left;
@@ -997,7 +997,7 @@ img.logo {
   border-radius: 50px;
   text-decoration: none;
   font-size: 24px;
-  font-family: Roboto, 'sans-serif';
+  font-family: Carrois Gothic, 'sans-serif';
   padding: 12px 48px;
   box-shadow: 0 3px 40px rgba(0, 0, 0, 0.25);
 }
