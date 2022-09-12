@@ -14,6 +14,12 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 
 
+[TOC]
+
+
+
+
+
 # **ON THE BRINK: COLLAPSE AS CODE**
 
 In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1]tasked to "*address and allay legitimate fears and concerns about the impact of irregular migration on our economy and society*."[^2]
@@ -42,6 +48,8 @@ Holding the “shield” against migration as a political priority  is enabled b
 >
 
 The crisis narrative in relation to migration[^10] does not only work on the performative level. Dualities of border crisis vs. protection or collapse vs. construction materialize on the ground in ways that feed the cyclical logic of crisis that migration policies are based on. 
+
+------
 
 
 
