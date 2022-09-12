@@ -9,12 +9,13 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q5589"> <!-- Henri Matisse -->
+<param ve-entity eid="Q60772"> <!-- Ursula von der Leyen -->
 
 # 
 
 
-<param ve-image label="Moria camp, 2018" description="The Model in Repose" license="RISD Museum" url="/img/Moria.jpg">
+
+
 
 
 # **ON THE BRINK: COLLAPSE AS CODE**
