@@ -1,8 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="FAILURE INFRASTRUCTURES:
-CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
+       title="FAILURE INFRASTRUCTURES"
              banner="img/tonermap.png" 
        layout="vertical">
          
@@ -24,7 +23,7 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 # **ABOUT**
 
-This is an essay. It is about [the camp](#the-camp)
+This is an essay. Itsis about [the camp](#the-camp)
 
 <param ve-image label="Satellite image" url=/img/sat2.png>
 
