@@ -13,6 +13,13 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 <param ve-entity eid="Q60772"> <!-- Ursula von der Leyen -->
 <param ve-entity eid="Q21786841"> <!-- Frontex -->
 
+#### Contents
+
+1. [On the Brink: Collapse as Code] (#on-the-brink-collapse-as-code)
+2. 
+
+
+
 [THE CAMP]: (https://dimaterialist.github.io/failure-infrastructures##the-camp)
 
 
