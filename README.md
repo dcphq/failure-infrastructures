@@ -13,9 +13,11 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 <param ve-entity eid="Q60772"> <!-- Ursula von der Leyen -->
 <param ve-entity eid="Q21786841"> <!-- Frontex -->
 
+
+
 [TOC]
 
-
+Go to [link] (#on-the-brink-collapse-as-code) go to
 
 
 
