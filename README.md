@@ -48,7 +48,7 @@ The crisis narrative in relation to migration[^10] does not only work on the per
 
 
 
-[Camp]: https://dimaterialist.github.io/failure-infrastructures/#the-camp
+[Camp]: https://dimaterialist.github.io/failure-infrastructures/##the-camp
 
 
 
