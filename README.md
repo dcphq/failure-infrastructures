@@ -1,7 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Failure Infrastructures: Calculated Collapse and the Global Border Regime"
+       title="FAILURE INFRASTRUCTURES:
+CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
        author="Dimitris C. Papadopoulos"
        banner="img/tonermap.png" 
        layout="vertical">
