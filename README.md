@@ -11,11 +11,6 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q60772"> <!-- Ursula von der Leyen -->
 
-# 
-
-
-
-
 
 
 # **ON THE BRINK: COLLAPSE AS CODE**
