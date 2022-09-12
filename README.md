@@ -17,6 +17,7 @@
 
 ## 
 
+In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1].
 
 
 
@@ -26,21 +27,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1].[^1]
 <param ve-image region="483,264,165,192" url="https://risdmuseum.org/sites/default/files/museumplus/205426.jpg">
 
-<param ve-image label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Girl_with_a_Pearl_Earring_%28Full_Renovation%29.jpg">
 
-<param ve-image fit="cover" manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+
+
 
 
 ## Location
