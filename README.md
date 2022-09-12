@@ -19,9 +19,6 @@
 
 
 
-In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"
-
-[^1]: European Commission, “The von Der Leyen Commission,” September 10, 2019.
 
 
 
@@ -37,7 +34,8 @@ In September 2019, Ursula von der Leyen, then President-Elect of the European Co
 
 
 
-In The Model in Repose, a young woman reclining on a couch confronts both the artist and her viewers with her nude torso and a direct yet disinterested gaze. She is Henriette Darricarrère, who worked as Matisse’s primary model during his winters in Nice between 1920 and 1927. Matisse met the nineteen-year-old Darricarrère while she was posing for a photography shoot at a cinema studio. Struck by her beauty and posture, he employed her over subsequent years to model a variety of costumes, from the latest Paris fashions to the decadent erotic attire of a North African odalisque. Matisse exercised tight control over each sitting, meticulously arranging not only the costume and pose, but every detail of the model’s surroundings. In this picture, her relation to the artist and audience is ambiguous—is she a modern and independent woman, a hired model, or perhaps a courtesan? Matisse’s productive working relationship with Darricarrère may account for his renewed focus on the human body and eroticism during this decade.[^1]
+
+In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1].[^1]
 <param ve-image region="483,264,165,192" url="https://risdmuseum.org/sites/default/files/museumplus/205426.jpg">
 
 <param ve-image label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Girl_with_a_Pearl_Earring_%28Full_Renovation%29.jpg">
@@ -69,4 +67,5 @@ This is an example of an annotation
 
 # References
 
-[^1]: [Henri Matisse, The Model in Repose](https://risdmuseum.org/art-design/collection/model-repose-57288?return=%2Fart-design%2Fcollection%3Fsearch_api_fulltext%3Dmatisse%26field_public_domain%3D1%26has_images%3D1%26op%3D)
+[^1]: European Commission, “The von Der Leyen Commission,” September 10, 2019.
+
