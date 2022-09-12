@@ -13,12 +13,10 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 <param ve-entity eid="Q60772"> <!-- Ursula von der Leyen -->
 <param ve-entity eid="Q21786841"> <!-- Frontex -->
 
+[the]: #the-camp
 
-
-[TOC]
 
 [The camp] (#the-camp) 
-
 
 
 # **ON THE BRINK: COLLAPSE AS CODE**
