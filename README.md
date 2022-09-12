@@ -45,7 +45,7 @@ The crisis narrative in relation to migration[^10] does not only work on the per
 
 
 
-# PREVENTABLE RUINS: MATERIAL COLLAPSE
+# **PREVENTABLE RUINS: MATERIAL COLLAPSE**
 
 
 
