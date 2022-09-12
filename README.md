@@ -17,9 +17,9 @@
 
 ## 
 
-In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1].
+In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1]tasked to "*address and allay legitimate fears and concerns about the impact of irregular migration on our economy and society*."[^2]
 
-
+ "Our way of life" as code for whiteness that is constantly subject to the external threat of irregular migration is nothing new. The U.S. Customs and Border Protection website informs users that "*the U.S. Border Patrol has a long and rich history of helping to secure and protect the American way of life.*"[^3]
 
 
 
@@ -56,7 +56,9 @@ This is an example of an annotation
 <param ve-image label="Paris" license="public domain" manifest="https://dimaterialist.github.io/test2/manifests/newparis.json"> 
 
 
-# References
+# Notes
 
 [^1]: European Commission, “The von Der Leyen Commission,” September 10, 2019.
 
+[^2]: Sophie in ’t Veld, “Threat to ‘European Way of Life’ Is Not Migrants. It’s Populists,” *Politico*, September 13, 2019.
+[^3]: https://www.cbp.gov/border-security/along-us-borders 
