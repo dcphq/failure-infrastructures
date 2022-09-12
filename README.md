@@ -11,8 +11,6 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q60772"> <!-- Ursula von der Leyen -->
-
--->
 <param ve-entity eid="Q21786841"> <!-- Frontex -->
 
 # **ABOUT**
@@ -65,7 +63,9 @@ The crisis narrative in relation to migration[^10] does not only work on the per
 
 ## THE CAMP
 
+In the summer of 2015 I carried out ethnographic fieldwork in the Moria refugee camp on the island of Lesvos, Greece. 
 
+<param ve-image label="Moria, 2015/Moria_2015.jpg>
 
 
 
