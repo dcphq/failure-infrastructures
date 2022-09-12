@@ -20,13 +20,7 @@ In September 2019, Ursula von der Leyen, then President-Elect of the European Co
  "Our way of life" as code for whiteness that is constantly subject to the external threat of irregular migration is nothing new. The U.S. Customs and Border Protection website informs users that "*the U.S. Border Patrol has a long and rich history of helping to secure and protect the American way of life.*"[^3]
 
 
-
-
-<param ve-iframe id="way of life" 
-src="https://www.cbp.gov/border-security/along-us-borders" style="border:0px #ffffff none;" name="way of life" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
-
-
-
+<param ve-video id="nf2rTb49H1c">
 
 
 ## Image example
