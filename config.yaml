@@ -14,7 +14,7 @@ banner: /img/tonermap.png
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
-- label: Contact 
+- label: Contact
   icon: fas fa-envelope
   action: contact-us
 - label: View page source
