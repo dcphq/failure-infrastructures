@@ -381,6 +381,7 @@ html {
 section h1 {
   text-align: center;
   font-family: Carrois Gothic, 'sans-serif';
+  src: url(/fonts/CarroisGothic-Regular.ttf);
   font-size: 30px;
   margin-bottom: 40px;
 }
@@ -410,6 +411,7 @@ section .button a {
   text-decoration: none;
   font-size: 24px;
   font-family: Carrois Gothic, 'sans-serif';
+  src: url(/fonts/CarroisGothic-Regular.ttf);
   padding: 12px 48px;
   box-shadow: 0 3px 40px rgb(0 0 0 / 25%);
 }
@@ -431,6 +433,7 @@ section .button a {
   text-decoration: none;
   font-size: 30px;
   font-family: Carrois Gothic, 'sans-serif';
+  src: url(/fonts/CarroisGothic-Regular.ttf);
   padding: 16px 72px;
   box-shadow: 0px 3px 40px rgba(0, 0, 0, 0.25);
 }
@@ -544,6 +547,7 @@ section.footer {
   margin-top: 0;
   grid-area: card-heading;
   font-family: Carrois Gothic, 'sans-serif';
+  src: url(/fonts/CarroisGothic-Regular.ttf);
   font-size: 30px;
   font-weight: normal;
 }
@@ -998,6 +1002,7 @@ img.logo {
   text-decoration: none;
   font-size: 24px;
   font-family: Carrois Gothic, 'sans-serif';
+  src: url(/fonts/CarroisGothic-Regular.ttf);
   padding: 12px 48px;
   box-shadow: 0 3px 40px rgba(0, 0, 0, 0.25);
 }
