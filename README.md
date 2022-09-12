@@ -1,7 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="FAILURE INFRASTRUCTURES"
+       title="FAILURE INFRASTRUCTURES: 
+CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
              banner="img/tonermap.png" 
        layout="vertical">
          
