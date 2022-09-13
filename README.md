@@ -211,12 +211,7 @@ I would like to thank Katerina Stefatos, my field collaborator in the Moria camp
 [^25]:  See, for example, Margaret E. Dorsey and Miguel Diaz-Barriga, “Algorithms, German Shepherds, and LexisNexis: Reticulating the Digital Security State in the Constitution Zone,” in Walling in and Walling Out Why Are We Building New Barriers to Divide Us?, eds. Laura McAtackney and Randy McGuire (School for Advanced Research Advanced Research Seminar Series. University of New Mexico Press, 2020),
  179–94. 
 [^26]: Frontext "Year in Brief" annual reports, accessed September 8, 2022. https://frontex.europa.eu/documents-and-publications 
-[^27]: To list, here, only some recent examples: 
-- Jason De Leon and Michael Wells, The Land of Open Graves: Living and Dying on the Migrant Trail, (Oakland, California: University of California Press, 2015).
- - Forensic Architecture in partnership with HumanRight360, “Pushbacks Across The Evros/Meriç River: Situated Testimony”, October 19, 2020, https://forensic-architecture.org/investigation/evros-situated-testimony.
-- Best of Luck with the Wall; A Film by Josh Begley, 2016, https://vimeo.com/189004719.
-- Charley Locke, “Military-Grade Camera Produces Eerie Photos of Refugees,” Wired, March 2, 2017 https://www.wired.com/2017/03/richard-mosse-heat-maps.
-- Manan Ahmed et al., “Torn Apart / Separados,” June 25, 2018, https://xpmethod.columbia.edu/torn-apart. ↩
+[^27]: To list, here, only some recent examples: 1): Jason De Leon and Michael Wells, The Land of Open Graves: Living and Dying on the Migrant Trail, (Oakland, California: University of California Press, 2015). 2): Forensic Architecture in partnership with HumanRight360, “Pushbacks Across The Evros/Meriç River: Situated Testimony”, October 19, 2020, https://forensic-architecture.org/investigation/evros-situated-testimony. 3): Best of Luck with the Wall; A Film by Josh Begley, 2016, https://vimeo.com/189004719. 4): Charley Locke, “Military-Grade Camera Produces Eerie Photos of Refugees,” Wired, March 2, 2017 https://www.wired.com/2017/03/richard-mosse-heat-maps. 5): Manan Ahmed et al., “Torn Apart / Separados,” June 25, 2018, https://xpmethod.columbia.edu/torn-apart.
 [^28]:  Eyal Weizman, “Violence at the Threshold of Detectability – e-Flux Journal #64, April 2015
 [^29]: Zachary Whyte, Rebecca Campbell, and Heidi Overgaard. “Paradoxical Infrastructures of Asylum: Notes on the Rise and Fall of Tent Camps in Denmark.” Migration Studies 8, no. 2 (June 1, 2020): 144.
 [^30]: Ibid.
