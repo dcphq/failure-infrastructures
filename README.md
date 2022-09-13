@@ -25,9 +25,7 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 ------
 
-```
 This is test message
-```
 
 
 
