@@ -24,7 +24,7 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 # **ABOUT**
 
-![sat2](/home/dimitris/Documents/GitHub/failure-infrastructures/img/sat2.png)
+![sat2](/home/dimitris/Documents/GitHub/failure-infrastructures/img/sat3.png)
 
 
 
