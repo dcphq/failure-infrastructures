@@ -90,7 +90,7 @@ Moria, now known as one of the most notorious refugee camps in Europe that encap
 
 At the time of my visit, a high-ranking police officer estimated the site's capacity at 1,200 people. Over 600 migrants and refugees were at the core of camp ("Moria in") waiting to be processed while over 2,000 were camped, mostly in tents, at the periphery of the camp ("Moria out"). The authorities used a strategy of internal spatial division and segregation of asylum seekers as a way of filtering and prioritizing their processing based on country of origin and vulnerability. [^12]  Asylum seekers at the core processing unit of the camp were subject to limited mobility through internal gates. Those at the periphery were able to walk to the city to get supplies and return to the camp to spend the night. Water and food portions were rationed, hygiene conditions were extremely poor, and conditions were not safe especially for women and children at the camp's periphery. It was clear that the camp was stretched to its limits. 
 
-Moria camp
+
 <param ve-map 
 center="Q30752848"
 zoom="18">
