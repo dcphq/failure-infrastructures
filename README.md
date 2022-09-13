@@ -216,7 +216,7 @@ I would like to thank Katerina Stefatos, my field collaborator in the Moria camp
  - Forensic Architecture in partnership with HumanRight360, “Pushbacks Across The Evros/Meriç River: Situated Testimony”, October 19, 2020, https://forensic-architecture.org/investigation/evros-situated-testimony.
 - Best of Luck with the Wall; A Film by Josh Begley, 2016, https://vimeo.com/189004719.
 - Charley Locke, “Military-Grade Camera Produces Eerie Photos of Refugees,” Wired, March 2, 2017 https://www.wired.com/2017/03/richard-mosse-heat-maps.
-- Manan Ahmed et al., “Torn Apart / Separados,” June 25, 2018, https://xpmethod.columbia.edu/torn-apart.
+- Manan Ahmed et al., “Torn Apart / Separados,” June 25, 2018, https://xpmethod.columbia.edu/torn-apart. ↩
 [^28]:  Eyal Weizman, “Violence at the Threshold of Detectability – e-Flux Journal #64, April 2015
 [^29]: Zachary Whyte, Rebecca Campbell, and Heidi Overgaard. “Paradoxical Infrastructures of Asylum: Notes on the Rise and Fall of Tent Camps in Denmark.” Migration Studies 8, no. 2 (June 1, 2020): 144.
 [^30]: Ibid.
