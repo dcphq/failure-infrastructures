@@ -23,11 +23,6 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 ### 
 
-------
-
-```
-About
-```
 
 
 
