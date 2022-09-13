@@ -27,7 +27,7 @@ AND THE GLOBAL BORDER REGIME"
 start here
 
 
-<param ve-image label="Satellite image" url=/img/sat2.png>
+<param ve-image label="Satellite image" url=/img/tonermap.png>
 
 
 
