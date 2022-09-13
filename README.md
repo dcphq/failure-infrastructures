@@ -16,9 +16,7 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic&display=swap');
-</style>
+
 
 
 
@@ -26,7 +24,9 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 # **ABOUT**
 
-This is an essay. Itsis about [the camp](#the-camp)
+![sat2](/home/dimitris/Documents/GitHub/failure-infrastructures/img/sat2.png)
+
+
 
 <param ve-image label="Satellite image" url=/img/sat2.png>
 
