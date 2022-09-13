@@ -22,7 +22,7 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 
 
-# **ABOUT**
+# 
 
 
 
@@ -32,7 +32,7 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 ------
 
-![sat2](/home/dimitris/Documents/GitHub/failure-infrastructures/img/sat3.png)
+
 
 # **ON THE BRINK: COLLAPSE AS CODE**
 
