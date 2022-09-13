@@ -18,14 +18,13 @@ AND THE GLOBAL BORDER REGIME"
 
 <param ve-entity eid="Q30752848"> <!-- Moria refugee camp -->
 
-
+<param ve-entity eid="Q104857280"> <!-- hotspot -->
 
 
 
 ##### Start here
 
 start here
-
 
 <param ve-image label="Satellite image" url=/img/tonermap.png>
 
@@ -87,42 +86,32 @@ In the summer of 2015 I carried out ethnographic fieldwork in the Moria refugee 
 label="Moria, 2015"
 url=/img/Moria_2015.jpg>
 
+Moria, now known as one of the most notorious refugee camps in Europe that encapsulated the "Fortress Europe" policies, was built as a refugee "hotspot" in a former military camp on an olive grove slope near the village of the same name. "Hotspots" were conceptualized and implemented by the European Commission as "Reception and Identification Centers" (RIC) for migrants and asylum seekers. Operated by local authorities in collaboration with Frontex and Europol, their objective is to "swiftly identify, register, and fingerprint incoming migrants."[^11]
 
-
-
-
-## Location
+At the time of my visit, a high-ranking police officer estimated the site's capacity at 1,200 people. Over 600 migrants and refugees were at the core of camp ("Moria in") waiting to be processed while over 2,000 were camped, mostly in tents, at the periphery of the camp ("Moria out"). The authorities used a strategy of internal spatial division and segregation of asylum seekers as a way of filtering and prioritizing their processing based on country of origin and vulnerability. [^12]  Asylum seekers at the core processing unit of the camp were subject to limited mobility through internal gates. Those at the periphery were able to walk to the city to get supplies and return to the camp to spend the night. Water and food portions were rationed, hygiene conditions were extremely poor, and conditions were not safe especially for women and children at the camp's periphery. It was clear that the camp was stretched to its limits. 
 
 Moria camp
 <param ve-map 
 center="Q30752848"
 zoom="18">
 
+Pollozek and Passoth note: "the hotspot can be understood as a merging point of both sides of the European migration regime, being part of the hardened exterior frontier of the EU and of transnational control assemblages." [^13] Despite its failing conditions, Moria was a functional processing site for biometrics and asylum-seeking claims. Political geographer Pallister-Wilkins reminds us that "Fortress Europe" is not a monolithic project blocking border-crossers, but one of “channeling mobilities” in specific, desired ways. [^14] n all its transformations, Moria never ceased to operate, even while authorities were struggling to maintain a sense of order in the camp, in parallel to other migration control sites and networks that served European migration policies. 
+
+## THE CAMP ON FIRE
+
+
+
+When I revisited the camp in 2018, the tents around the main site had expanded east, west, and north. NGO workers, volunteers and locals I talked to shared their concern about the unsustainable conditions in the camp. Migrants and refugees would often protest their living conditions and would ask to be transferred to other, safer camps and shelters. Violent incidents among groups would occasionally erupt. The great majority of migrants and refugees lived in tents and self-managed, makeshift shelters dispersed beyond the main camp's fence. On September 19, 2018, journalist Louise Milner reported: "Around 9,000 people are stuck in tents and shipping containers at the former military base. The capacity is for around 3,000 people, so it's reaching a boiling point."[^15] It was clear that Moria was slowly collapsing. Its infrastructural collapse was manifested, from a bird's eye view, as a spatial collapse, an exploded, dispersed micro-geography of small structures, trash, and debris. It was already morphing into what archaeologist Yiannis Hamilakis has called Europe's "ruins in the making."[^16]
+
+<param ve-image 
+label="Moria, 2018"
+url=/img/Moria 2018.jpeg>
 
 
 
 
 
 
-
-
-
-
-## Detail
-Let's look closer at the image.
-You can either <span data-click-image-zoomto="483,264,165,192">click here</span> or place your mouse <span data-mouseover-image-zoomto="483,264,165,192">over this text</span> and see the zoomed-in version on the right.
-<param ve-image fit="cover" url="https://risdmuseum.org/sites/default/files/museumplus/205426.jpg">
-
-
-
-## Annotations
-This is an example of an annotation
-<param ve-image title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg">
-
-
-<param ve-image label="Paris Street; Rainy Day" license="public domain" manifest="https://dimaterialist.github.io/test2/manifests/paris.json">
-
-<param ve-image label="Paris" license="public domain" manifest="https://dimaterialist.github.io/test2/manifests/newparis.json"> 
 
 
 # Notes
@@ -138,3 +127,9 @@ This is an example of an annotation
 [^8]: https://ec.europa.eu/commission/presscorner/detail/de/statement_20_380 
 [^9]: Britta Anderson, “Embodiment Against Borders: Discourses of Crisis and Collaborative Performance Art on the U.S.-Mexico Border Wall,” Arizona Journal of Hispanic Cultural Studies 24, no. 1 (2020): 132
 [^10]: See for example, Nick Vaughan-Williams, Vernacular Border Security: Citizens’ Narratives of Europe’s “Migration Crisis” (Oxford, New York: Oxford University Press, 2021).
+[^11]: https://home-affairs.ec.europa.eu/pages/glossary/hotspot-approach_en
+[^12]: Screening was based on five levels of vulnerability from lower to higher: 5) senior individuals 4) pregnant women 3) single parent families 2) individuals with disability 1) unaccompanied minors.
+[^13]: Silvan Pollozek and Jan Hendrik Passoth, “Infrastructuring European Migration and Border Control: The Logistics of Registration and Identification at Moria Hotspot,” Environment and Planning D: Society and Space 37, no. 4 (August 1, 2019): 607
+[^14]:  Polly Pallister-Wilkins, “Hotspots and the Geographies of Humanitarianism.” Environment and Planning D: Society and Space 38, no. 6 (December 2020): 991–1008
+[^15]:  https://www.euronews.com/2018/09/19/greek-camp-at-moria-reaching-boiling-point 
+[^16]: 
