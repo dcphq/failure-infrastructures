@@ -5,7 +5,8 @@
 
 <param ve-config 
        title="FAILURE INFRASTRUCTURES: 
-CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
+CALCULATED COLLAPSE 
+AND THE GLOBAL BORDER REGIME"
              banner="img/tonermap.png" 
        layout="vertical">
          
