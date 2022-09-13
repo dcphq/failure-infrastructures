@@ -1,11 +1,5 @@
----
-​---
-title: "Failure infrastructures"
-author: Dimitris C. Papadopoulos
-tags: [migration, borders, infrastructure]
 
-​---
----
+
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
@@ -29,9 +23,9 @@ CALCULATED COLLAPSE AND THE GLOBAL BORDER REGIME"
 
 
 
+------
 
 
-# 
 
 
 
