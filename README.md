@@ -202,7 +202,7 @@ I would like to thank Katerina Stefatos, my field collaborator in the Moria camp
 [^16]: https://www.thenation.com/article/archive/the-eus-future-ruins-moria-refugee-camp-in-lesbos/ 
 [^17]:  Interview with the author, Lesvos, Greece, August 17, 2018. 
 [^18]: In 2021 a court in Athens ordered compensation to the families of two men acknowledging "the miserable conditions that prevailed" and the inaction of the. See Yiannis Papadopoulos, “Compensation Granted over Moria Migrant Camp Deaths,” EKathimerini.com, June 26, 2021, https://www.ekathimerini.com/news/1163400/compensation-granted-over-moria-migrant-camp-deaths/ 
-[^19]: https://www.theguardian.com/world/2021/jun/13/jailing-afghans-for-lesbos-moria-migrant-camp-fire-parody-of-justice 
+[^19]: https://www.theguardian.com/world/2021/jun/13/jailing-afghans-for-lesbos-moria-migrant-camp-fire-parody-of-justice
 [^20]: https://pulitzercenter.org/stories/disaster-waiting-happen-who-was-really-responsible-fire-moria-refugee-camp 
 [^21]: https://www.theatlantic.com/international/archive/2019/11/greeces-moria-refugee-camp-a-european-failure/601132/ 
 [^22]: https://www.consilium.europa.eu/en/press/press-releases/2016/03/18/european-council-conclusions/ 
