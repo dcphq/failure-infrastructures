@@ -22,16 +22,6 @@ AND THE GLOBAL BORDER REGIME"
 
 
 
-##### Start here
-
-start here
-
-<param ve-image label="Satellite image" url=/img/tonermap.png>
-
-
-
-
-
 
 
 ------
@@ -222,5 +212,4 @@ I would like to thank Katerina Stefatos, my field collaborator in the Moria camp
 [^35]: Jasbir K. Puar, The Right to Maim: Debility, Capacity, Disability, (Durham and London: Duke University Press Books, 2017).
 [^36]: Renee Maltezou, “Greece Locates Refugees in Evros; Trapped for Days between Greece, Turkey,” Reuters, August 15, 2022
 [^37]: This incident, in its cruel cynicism, echoes the "Left to die boat" incident that was investigated by the Forensic Architecture team:  https://forensic-architecture.org/investigation/the-left-to-die-boat.
-
 
