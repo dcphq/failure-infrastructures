@@ -30,7 +30,7 @@ This is the intro.
 
 <param ve-image 
 label="title"
-url=/img/title2.png>
+url=/img/intro_image_2.png>
 
 ------
 
