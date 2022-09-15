@@ -7,7 +7,7 @@
        title="FAILURE INFRASTRUCTURES: 
 CALCULATED COLLAPSE 
 AND THE GLOBAL BORDER REGIME"
-             banner="img/tonermap.png" 
+             banner="img/header.png" 
        layout="vertical">
          
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
