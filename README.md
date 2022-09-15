@@ -24,6 +24,14 @@ AND THE GLOBAL BORDER REGIME"
 
 
 
+### About
+
+
+
+<param ve-image 
+label="title"
+url=/img/title2.png>
+
 ------
 
 
