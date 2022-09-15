@@ -49,7 +49,7 @@ Despite recent scrutiny over human rights violations, [^6] Frontex, the European
 
 <param ve-video 
 id="G4qh6X16eys"
-start="yes">
+allow="autoplay">
 
 Holding the “shield” against migration as a political priority  is enabled by a sense of imminent collapse or constant fear. Collapse is useful even before or whether it actually occurs. State authorities instrumentalize the continuous threat of crisis to legitimize aggressive migration policies that are only partially effective in their deterrence objective, and that maintain the fear of new arrivals in a cyclical fashion. As Britta Anderson writes:
 
