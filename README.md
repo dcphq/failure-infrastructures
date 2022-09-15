@@ -48,7 +48,7 @@ This code language was made evidently clear recently in the way Eastern European
 Despite recent scrutiny over human rights violations, [^6] Frontex, the European Border and Coast Guard Agency, has significantly increased its budget and personnel.[^7] In March 2020, now president of the European Commission, Ursula von der Leyen, announced, from the Greek border, the deployment of a hundred Frontex border guards, six coastal patrol vessels, two helicopters, one aircraft, and three thermo-vision vehicles, and concluded in Greek: “I thank Greece for being our European ασπίδα (shield) in these times." [^8] 
 
 <param ve-video 
-	id="G4qh6X16eys?start=76?&autoplay="1"frameborder="0">
+	id="G4qh6X16eys?start=76autoplay="1"frameborder="0">
 
 
 Holding the “shield” against migration as a political priority  is enabled by a sense of imminent collapse or constant fear. Collapse is useful even before or whether it actually occurs. State authorities instrumentalize the continuous threat of crisis to legitimize aggressive migration policies that are only partially effective in their deterrence objective, and that maintain the fear of new arrivals in a cyclical fashion. As Britta Anderson writes:
