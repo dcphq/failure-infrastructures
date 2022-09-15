@@ -63,8 +63,7 @@ id="G4qh6X16eys?start=76">
 
 Holding the “shield” against migration as a political priority  is enabled by a sense of imminent collapse or constant fear. Collapse is useful even before or whether it actually occurs. State authorities instrumentalize the continuous threat of crisis to legitimize aggressive migration policies that are only partially effective in their deterrence objective, and that maintain the fear of new arrivals in a cyclical fashion. As Britta Anderson writes:
 
-> Practices including ICE raids, family separation, and indefinite detention have become institu-
-> tionalized as responses to undocumented immigration, fueling a continual state of fear. (…) crisis is not a provisional suspension of procedures (…) but rather a cyclical, operative state of continuing shock. This temporality of ongoing crisis is a modality crucial to capitalism’s continual operation.[^9] 
+> Practices including ICE raids, family separation, and indefinite detention have become institutionalized as responses to undocumented immigration, fueling a continual state of fear. (…) crisis is not a provisional suspension of procedures (…) but rather a cyclical, operative state of continuing shock. This temporality of ongoing crisis is a modality crucial to capitalism’s continual operation.[^9] 
 >
 
 The crisis narrative in relation to migration[^10] does not only work on the performative level. Dualities of border crisis vs. protection or collapse vs. construction materialize on the ground in ways that feed the cyclical logic of crisis that migration policies are based on. 
@@ -93,6 +92,8 @@ label="Moria, 2015"
 url=/img/Moria_2015.jpg>
 
 Moria, now known as one of the most notorious refugee camps in Europe that encapsulated the "Fortress Europe" policies, was built as a refugee "hotspot" in a former military camp on an olive grove slope near the village of the same name. "Hotspots" were conceptualized and implemented by the European Commission as "Reception and Identification Centers" (RIC) for migrants and asylum seekers. Operated by local authorities in collaboration with Frontex and Europol, their objective is to "swiftly identify, register, and fingerprint incoming migrants."[^11]
+
+<param ve-iframe src="https://home-affairs.ec.europa.eu/pages/glossary/hotspot-approach_en/">
 
 At the time of my visit, a high-ranking police officer estimated the site's capacity at 1,200 people. Over 600 migrants and refugees were at the core of camp ("Moria in") waiting to be processed while over 2,000 were camped, mostly in tents, at the periphery of the camp ("Moria out"). The authorities used a strategy of internal spatial division and segregation of asylum seekers as a way of filtering and prioritizing their processing based on country of origin and vulnerability. [^12]  Asylum seekers at the core processing unit of the camp were subject to limited mobility through internal gates. Those at the periphery were able to walk to the city to get supplies and return to the camp to spend the night. Water and food portions were rationed, hygiene conditions were extremely poor, and conditions were not safe especially for women and children at the camp's periphery. It was clear that the camp was stretched to its limits. 
 
