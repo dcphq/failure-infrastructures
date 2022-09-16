@@ -93,6 +93,8 @@ Moria, now known as one of the most notorious refugee camps in Europe that encap
 center="Q30752848"
 zoom="18">
 
+
+
 "Hotspots" were conceptualized and implemented by the European Commission as "Reception and Identification Centers" (RIC) for migrants and asylum seekers. Operated by local authorities in collaboration with Frontex and Europol, their objective is to "swiftly identify, register, and fingerprint incoming migrants."[^11]
 
 <param ve-iframe src="https://asylumineurope.org/reports/country/greece/asylum-procedure/access-procedure-and-registration/reception-and-identification-procedure/">
@@ -109,7 +111,7 @@ Pollozek and Passoth note: "the hotspot can be understood as a merging point of 
 
 <param ve-image 
 label="Moria, 2015."
-url=/img/Moria_2015_2.png>
+url=/img/Moria_2015_2.jpg>
 
 
 
