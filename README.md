@@ -95,7 +95,7 @@ At the time of my visit, a high-ranking police officer estimated the site's capa
 
 <param ve-image 
 label="Moria, 2015"
-url=/img/Moria_2015.jpg>
+url=/img/UNCHR_map.png>
 
  Those at the periphery were able to walk to the city to get supplies and return to the camp to spend the night. Water and food portions were rationed, hygiene conditions were extremely poor, and conditions were not safe especially for women and children at the camp's periphery. It was clear that the camp was stretched to its limits. 
 
