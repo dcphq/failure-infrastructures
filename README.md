@@ -111,7 +111,7 @@ Pollozek and Passoth note: "the hotspot can be understood as a merging point of 
 
 <param ve-image 
 label="Moria, 2015."
-url=/img/Moria_2015_2.jpg>
+url=/img/Moria20152.jpg>
 
 
 
