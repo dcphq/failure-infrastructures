@@ -70,10 +70,6 @@ The crisis narrative in relation to migration[^10] does not only work on the per
 
 
 
-<param ve-image 
-label="Satellite timelapse"
-url=/img/timelapse.gif>
-
 
 ------
 
@@ -95,7 +91,13 @@ Moria, now known as one of the most notorious refugee camps in Europe that encap
 
 <param ve-iframe src="https://asylumineurope.org/reports/country/greece/asylum-procedure/access-procedure-and-registration/reception-and-identification-procedure/">
 
-At the time of my visit, a high-ranking police officer estimated the site's capacity at 1,200 people. Over 600 migrants and refugees were at the core of camp ("Moria in") waiting to be processed while over 2,000 were camped, mostly in tents, at the periphery of the camp ("Moria out"). The authorities used a strategy of internal spatial division and segregation of asylum seekers as a way of filtering and prioritizing their processing based on country of origin and vulnerability. [^12]  Asylum seekers at the core processing unit of the camp were subject to limited mobility through internal gates. Those at the periphery were able to walk to the city to get supplies and return to the camp to spend the night. Water and food portions were rationed, hygiene conditions were extremely poor, and conditions were not safe especially for women and children at the camp's periphery. It was clear that the camp was stretched to its limits. 
+At the time of my visit, a high-ranking police officer estimated the site's capacity at 1,200 people. Over 600 migrants and refugees were at the core of camp ("Moria in") waiting to be processed while over 2,000 were camped, mostly in tents, at the periphery of the camp ("Moria out"). The authorities used a strategy of internal spatial division and segregation of asylum seekers as a way of filtering and prioritizing their processing based on country of origin and vulnerability. [^12]  Asylum seekers at the core processing unit of the camp were subject to limited mobility through internal gates.
+
+<param ve-image 
+label="Moria, 2015"
+url=/img/Moria_2015.jpg>
+
+ Those at the periphery were able to walk to the city to get supplies and return to the camp to spend the night. Water and food portions were rationed, hygiene conditions were extremely poor, and conditions were not safe especially for women and children at the camp's periphery. It was clear that the camp was stretched to its limits. 
 
 
 <param ve-map 
