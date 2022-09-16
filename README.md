@@ -87,24 +87,33 @@ In the summer of 2015 I carried out ethnographic fieldwork in the Moria refugee 
 label="Moria, 2015"
 url=/img/Moria_2015.jpg>
 
-Moria, now known as one of the most notorious refugee camps in Europe that encapsulated the "Fortress Europe" policies, was built as a refugee "hotspot" in a former military camp on an olive grove slope near the village of the same name. "Hotspots" were conceptualized and implemented by the European Commission as "Reception and Identification Centers" (RIC) for migrants and asylum seekers. Operated by local authorities in collaboration with Frontex and Europol, their objective is to "swiftly identify, register, and fingerprint incoming migrants."[^11]
+Moria, now known as one of the most notorious refugee camps in Europe that encapsulated the "Fortress Europe" policies, was built as a refugee "hotspot" in a former military camp on an olive grove slope near the village of the same name. 
+
+<param ve-map 
+center="Q30752848"
+zoom="18">
+
+"Hotspots" were conceptualized and implemented by the European Commission as "Reception and Identification Centers" (RIC) for migrants and asylum seekers. Operated by local authorities in collaboration with Frontex and Europol, their objective is to "swiftly identify, register, and fingerprint incoming migrants."[^11]
 
 <param ve-iframe src="https://asylumineurope.org/reports/country/greece/asylum-procedure/access-procedure-and-registration/reception-and-identification-procedure/">
 
 At the time of my visit, a high-ranking police officer estimated the site's capacity at 1,200 people. Over 600 migrants and refugees were at the core of camp ("Moria in") waiting to be processed while over 2,000 were camped, mostly in tents, at the periphery of the camp ("Moria out"). The authorities used a strategy of internal spatial division and segregation of asylum seekers as a way of filtering and prioritizing their processing based on country of origin and vulnerability. [^12]  Asylum seekers at the core processing unit of the camp were subject to limited mobility through internal gates.
 
 <param ve-image 
-label="Moria camp map, UNHCR"
+label="Moria camp map. UNHCR"
 url=/img/UNHCRmap.jpg>
 
  Those at the periphery were able to walk to the city to get supplies and return to the camp to spend the night. Water and food portions were rationed, hygiene conditions were extremely poor, and conditions were not safe especially for women and children at the camp's periphery. It was clear that the camp was stretched to its limits. 
 
-
-<param ve-map 
-center="Q30752848"
-zoom="18">
-
 Pollozek and Passoth note: "the hotspot can be understood as a merging point of both sides of the European migration regime, being part of the hardened exterior frontier of the EU and of transnational control assemblages." [^13] Despite its failing conditions, Moria was a functional processing site for biometrics and asylum-seeking claims. Political geographer Pallister-Wilkins reminds us that "Fortress Europe" is not a monolithic project blocking border-crossers, but one of “channeling mobilities” in specific, desired ways. [^14] n all its transformations, Moria never ceased to operate, even while authorities were struggling to maintain a sense of order in the camp, in parallel to other migration control sites and networks that served European migration policies. 
+
+<param ve-image 
+label="Moria, 2015."
+url=/img/Moria_2015_2.jpg>
+
+
+
+
 
 ## THE CAMP ON FIRE
 
