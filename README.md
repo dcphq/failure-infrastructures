@@ -155,6 +155,15 @@ On September 8, 2020, multiple fires erupted in the camp, setting tents and cont
 
 
 
+<param ve-compare curtain url=/img/sentinel1.png label="Satellite Image 1" description="Satellite Image 1" attribution="Satellite Image 1">
+<param ve-compare url=img/sentinel2.jpg label="Satellite Image 2" description="Satellite Image 2" >
+
+
+
+
+
+
+
 ## **The Camp 2.0**
 
 Moria’s collapse, seen as a "disaster waiting to happen" [^20]  or as "the moral failure of Europe"[^21] was both predictable and preventable. On the day before the destructive fire, Moria was the largest displacement camp in Europe serving – at the cost of lives and suffering of asylum seekers – the objectives of European migration policies. One of the pillars of these policies was the 2016 EU-Turkey agreement according to which all “new irregular migrants” would be returned to Turkey while Syrian refugees would find a legal pathway to EU member states. [^22] Critical parts of the deal such as the transfer of Syrian refugees to EU member states were barely implemented and resulted in an unending limbo for asylum seekers.
