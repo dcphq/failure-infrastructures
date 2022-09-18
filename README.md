@@ -47,9 +47,7 @@ In September 2019, Ursula von der Leyen, then President-Elect of the European Co
 
 <param ve-video id="nf2rTb49H1c?start=12">
 
-Of course, even a brief dive into the history of the U.S. Border Patrol is enough to reveal a legacy of violence, human rights violations, and racist policies.[^4] 
-
-This code language was made evidently clear recently in the way Eastern European countries welcomed and supported thousands of Ukrainian refugees who, as some commentators put it, are "civilized" or "look like us."[^5] 
+Of course, even a brief dive into the history of the U.S. Border Patrol is enough to reveal a legacy of violence, human rights violations, and racist policies.[^4] This code language was made evidently clear recently in the way Eastern European countries welcomed and supported thousands of Ukrainian refugees who, as some commentators put it, are "civilized" or "look like us."[^5] 
 
 <param ve-video id="2z9UyPurVok">
 
@@ -106,7 +104,7 @@ label="Moria camp map. UNHCR"
 url=/img/UNHCRmap.jpg>
 
  Those at the periphery were able to walk to the city to get supplies and return to the camp to spend the night. Water and food portions were rationed, hygiene conditions were extremely poor, and conditions were not safe especially for women and children at the camp's periphery. It was clear that the camp was stretched to its limits.
- 
+
 <param ve-image 
 label="Moria, 2015."
 url=/img/Moria_2015_2.JPG>
