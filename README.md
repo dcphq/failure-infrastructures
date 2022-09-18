@@ -135,7 +135,7 @@ When I revisited the camp in 2018, the tents around the main site had expanded e
 
 <param ve-image 
 label="Morissa, 2018"
-url=/img/Moria_2018.jpeg>
+url=/img/Moria_2018_camp_view.jpg>
 
 
 
