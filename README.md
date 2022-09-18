@@ -64,10 +64,14 @@ Holding the “shield” against migration as a political priority  is enabled b
 > Practices including ICE raids, family separation, and indefinite detention have become institutionalized as responses to undocumented immigration, fueling a continual state of fear. (…) crisis is not a provisional suspension of procedures (…) but rather a cyclical, operative state of continuing shock. This temporality of ongoing crisis is a modality crucial to capitalism’s continual operation.[^9] 
 >
 
-The crisis narrative in relation to migration[^10] does not only work on the performative level. Dualities of border crisis vs. protection or collapse vs. construction materialize on the ground in ways that feed the cyclical logic of crisis that migration policies are based on. 
 
-<param ve-image title="Number of NYT articles that mentioned border crisis or crisis at the border, 2015-2021."
+
+<param ve-image title="Number of NYT articles that mentioned border crisis or crisis at the border, 2015-2021." zoom="70%"
 url=/img/NYT_crisis.png>
+
+
+
+The crisis narrative in relation to migration[^10] does not only work on the performative level. Dualities of border crisis vs. protection or collapse vs. construction materialize on the ground in ways that feed the cyclical logic of crisis that migration policies are based on. 
 
 
 
