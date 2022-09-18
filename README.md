@@ -73,7 +73,8 @@ url=/img/NYT_crisis.jpg>
 
 The crisis narrative in relation to migration[^10] does not only work on the performative level. Dualities of border crisis vs. protection or collapse vs. construction materialize on the ground in ways that feed the cyclical logic of crisis that migration policies are based on. 
 
-
+<param ve-video 
+id="8UpvU2utUZU">
 
 
 ------
