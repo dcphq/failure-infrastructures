@@ -66,6 +66,9 @@ Holding the “shield” against migration as a political priority  is enabled b
 
 The crisis narrative in relation to migration[^10] does not only work on the performative level. Dualities of border crisis vs. protection or collapse vs. construction materialize on the ground in ways that feed the cyclical logic of crisis that migration policies are based on. 
 
+<param ve-image title="Number of NYT articles that mentioned border crisis or crisis at the border, 2015-2021."
+url=/img/NYT_crisis.png>
+
 
 
 
