@@ -134,7 +134,7 @@ url=/img/Moria_2015_3.JPG>
 When I revisited the camp in 2018, the tents around the main site had expanded east, west, and north. NGO workers, volunteers and locals I talked to shared their concern about the unsustainable conditions in the camp. Migrants and refugees would often protest their living conditions and would ask to be transferred to other, safer camps and shelters. Violent incidents among groups would occasionally erupt. The great majority of migrants and refugees lived in tents and self-managed, makeshift shelters dispersed beyond the main camp's fence. On September 19, 2018, journalist Louise Milner reported: "Around 9,000 people are stuck in tents and shipping containers at the former military base. The capacity is for around 3,000 people, so it's reaching a boiling point."[^15] It was clear that Moria was slowly collapsing. Its infrastructural collapse was manifested, from a bird's eye view, as a spatial collapse, an exploded, dispersed micro-geography of small structures, trash, and debris. It was already morphing into what archaeologist Yiannis Hamilakis has called Europe's "ruins in the making."[^16]
 
 <param ve-image 
-label="Moria, 2018"
+label="Morissa, 2018"
 url=/img/Moria_2018.jpeg>
 
 
