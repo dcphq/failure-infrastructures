@@ -67,7 +67,7 @@ Holding the “shield” against migration as a political priority  is enabled b
 
 
 <param ve-image title="Number of NYT articles that mentioned border crisis or crisis at the border, 2015-2021." zoom=70%
-url=/img/NYT_crisis.svg>
+url=/img/NYT_crisis.jpg>
 
 
 
