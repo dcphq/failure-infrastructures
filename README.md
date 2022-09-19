@@ -174,9 +174,7 @@ Moria’s collapse, seen as a "disaster waiting to happen" [^20]  or as "the mor
 
 In October 2020, the Greek authorities broke ground for a new "closed-type” refugee camp, not too far from Moria, with funding from the European Commission. [^23] The new camp, located in a former Greek Army shooting range, was planned to host 2,500 migrants and refugees. As soon as the first winter came, it was clear that the new site, built on gravel by the sea, with no trees or vegetation, was exposed to floods and winds. However, the closed, more contained type of camp with increased security screening that kept migrants and refugees out of sight, was welcomed by state authorities as well as some locals, especially following the chaotic destruction of Moria and the protests that followed. The new camp is already called by camp occupants, officers, and locals, not without a sense of sarcasm, "Moria 2." 
 
-<param ve-video 
-id="ZqCyVr6uMpI?start=01"
-title="Test.">
+
 
 
 
@@ -194,7 +192,14 @@ The attitude of state authorities towards hotspots intentionally swings between 
 
 Although not all refugee camps are built with the same provisions in place for relatively safe living conditions, crises in such sites are not unexpected. The moment of collapse  in the case of Moria was the culmination of the ways in which it operated for years. The shocking effect of its fiery destruction and of the displacement of its inhabitants was effective as a media event, in terms of triggering anti-migrant political discourse and reactions by local communities. Whether in the context of the European hotspot approach or the "prevention through deterrence" doctrine in the U.S., the spectacle of violence and suffering in refugee camps, often fetishized to anaesthetization extremes, is perceived, itself, as a threat, rather as the immediate result of specific, calculated policies.
 
+<param ve-video 
+id="ZqCyVr6uMpI?start=01"
+title="Test.">
+
+
 This hyper-visibility of violence and destruction serves as a distraction from the broader and often elusive architecture of mobility control that is in place in multiple other physical and virtual locations. The physical U.S.-Mexico border wall is just one component of a network of border patrol agents, detention centers, facial recognition cameras, and databases that expand well into the U.S. mainland.[^25]Similarly, the European refugee hotspot is merely a logistical processing site within a networked infrastructure of border walls and fences, Frontex ships, Greek Coast Guard ships, and drones. Frontex, for example, announced 468 aerial surveillance flights in 2021 and 1,030 in 2020 alone.[^26] All of these surveillance nodes and operations feed data into European information systems such as the Schengen Information System or the European Dactyloscopy database (Eurodac).
+
+<param ve-iframe id="frontex" src= 'https://flo.uri.sh/visualisation/11228325/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11228325/?utm_source=embed&utm_campaign=visualisation/11228325' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> >
 
 Recent scholarly, activist, and independent journalism projects [^27] have focused on "soft" structures, non-human actors, networks and assemblages of the border violence and surveillance regime that are less traceable, and concealed, sometimes, under what Eyal Weizman has called the "threshold of detectability."[^28] Even as state actors performatively, or even celebratorily, announce new walls, fences, and "hotspots", the scrutiny over other types of operations or infrastructures like pushbacks in the Mediterranean or undisclosed surveillance systems, is unwanted as it may reveal human rights violations and raise claims for justice and accountability.  
 
