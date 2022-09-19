@@ -232,7 +232,7 @@ Whether by design or not, mobility control infrastructures are as much about por
 
 To acknowledge the malleability of border infrastructures is not to dismiss the lethal and debilitating violence they produce. Rethinking these infrastructures as adaptive, deteriorating, or shifting helps paint a more accurate picture of the intrinsic ways in which they operate. It also helps shift from a view of "people on the move" having to overcome fixed, unchanged infrastructures to a more nuanced understanding of border surveillance assemblages that, themselves, move and follow border-crossers. These infrastructures grow and expand, or, when needed, recede and retract. As a matter of fact, the ability to deploy, disassemble and reassemble, to be both visible and invisible, is what makes these infrastructures effective. 
 
-click on [about] (#about)
+click on [about] (###about)
 
 At the same time, to say that border control infrastructures are retractable or collapsible helps illuminate the artificial, selective, and reversible nature of their very existence. 
 
