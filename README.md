@@ -27,6 +27,7 @@ AND THE GLOBAL BORDER REGIME"
 ### About
 
 This is the intro.
+ click on [this link](#on-the-brink-collapse-as-code) to jump to header `Collapse as Code`. 
 
 <param ve-image title="Satellite view of Lesvos, Greece."
 url=/img/intro_image_3.png>
