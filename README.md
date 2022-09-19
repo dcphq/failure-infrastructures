@@ -159,8 +159,8 @@ On September 8, 2020, multiple fires erupted in the camp, setting tents and cont
 
 
 
-<param ve-compare curtain url=/img/S2A_tile_20200904.jpeg label="Satellite Image 1" description="Satellite Image 1" attribution="Satellite Image 1">
-<param ve-compare url=img/S2B_tile_20200909.jpeg label="Satellite Image 2" description="Satellite Image 2" >
+<param ve-compare curtain url=/img/Sat_September_4.jpeg label="Satellite Image 1" description="Satellite Image 1" attribution="Satellite Image 1">
+<param ve-compare url=img/Sat_September_9.jpeg label="Satellite Image 2" description="Satellite Image 2" >
 
 
 
