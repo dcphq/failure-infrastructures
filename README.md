@@ -32,7 +32,7 @@ AND THE GLOBAL BORDER REGIME"
 
 
 
-This is the intro.  click on [this link](#About) to jump to header `About`. 
+This is the intro.  click on [this link](#brink) to jump to header `About`. 
 
 
 
@@ -45,7 +45,7 @@ url=/img/intro_image_3.png>
 ------
 
 
-# ON THE BRINK: COLLAPSE AS CODE
+# ON THE BRINK: COLLAPSE AS CODE {: #brink }
 
 
 In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1]tasked to "*address and allay legitimate fears and concerns about the impact of irregular migration on our economy and society*."[^2]
