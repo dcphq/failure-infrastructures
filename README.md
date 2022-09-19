@@ -26,13 +26,7 @@ AND THE GLOBAL BORDER REGIME"
 
 ### About
 
-
-
-
-
-
-
-This is the intro.  click on [this link](#brink) to jump to header `About`. 
+This is an inteactive essay. Scroll down to trigger media on the right screen. Click on underlined names and footnotes for additional info. Jump to sections: ["On the Brink: Collapse as Code."](#brink), . 
 
 
 
