@@ -28,11 +28,14 @@ AND THE GLOBAL BORDER REGIME"
 
 
 
-[TOC]
+
 
 
 
 This is the intro.
+
+[TOC]
+
  click on [this link](#PREVENTABLE-RUINS-MATERIAL COLLAPSE) to jump to header `Preventable Ruins`. 
 
 <param ve-image title="Satellite view of Lesvos, Greece."
