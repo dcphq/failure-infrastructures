@@ -27,7 +27,7 @@ AND THE GLOBAL BORDER REGIME"
 ### About
 
 This is the intro.
- click on [this link](#preventable-ruins:-material-collapse) to jump to header `Preventable Ruins`. 
+ click on [this link](#PREVENTABLE-RUINS:-MATERIAL COLLAPSE) to jump to header `Preventable Ruins`. 
 
 <param ve-image title="Satellite view of Lesvos, Greece."
 url=/img/intro_image_3.png>
@@ -82,7 +82,7 @@ id="8UpvU2utUZU">
 
 
 
-# **PREVENTABLE RUINS: MATERIAL COLLAPSE**
+# PREVENTABLE RUINS: MATERIAL COLLAPSE
 
 
 
