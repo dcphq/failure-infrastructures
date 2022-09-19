@@ -32,7 +32,7 @@ AND THE GLOBAL BORDER REGIME"
 
 
 
-This is the intro.  click on [this link](/#about) to jump to header `About`. 
+This is the intro.  click on [this link](#About) to jump to header `About`. 
 
 
 
