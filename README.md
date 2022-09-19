@@ -152,7 +152,7 @@ url=/img/Moria_2018_road_view.jpg>
 Not long after my visit, literal fires emerged in the camp. In September 2019, a mother and child died in a container when two fires broke out in the main camp and the tents just outside of it. Deadly incidents like this one were not uncommon in Moria. In January 2017, a Syrian and an Egyptian man died of carbon monoxide inhalation after trying to warm up their tents by lighting a fire.[^18]
 
 <param ve-video title="Timelapse" 
-url=/img/timelapse.mp4>
+id=/img/timelapse.mp4>
 
 On September 8, 2020, multiple fires erupted in the camp, setting tents and containers ablaze. Only a few tents survived. The rest of the camp was destroyed, causing the displacement, overnight, of nearly 13,000 people. Greek authorities blamed six asylum seekers protesting Covid 19 quarantine measures for the fires. In June 2021, four Afghans were sentenced to ten years in prison for arson with risk to human life, despite objections over the evidence and requests by the lawyers to be tried by a juvenile court. [^19]
 
