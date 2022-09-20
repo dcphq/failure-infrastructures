@@ -236,7 +236,7 @@ The second concept, that of "successful failure," captures the slow, accumulativ
 
 <param ve-image 
 title= "Moria, 2015"
-url=/img/Moria_2018_debris.JPG>
+url=/img/Moria_2018_debris.jpg>
 
 What keeps asylum seekers in limbo is not just the lack of care, repair, or resources, but also the targeted ways in which humanitarian care is administered. Care, provided in hotspots based on "vulnerabilities" and other taxonomies, reinforces "hierarchies of mobility."[^33] Channeling Jasbir Puar's concept of "deliberate debilitation" as biopolitical strategy, Polly Pallister Wilkins notes: 
 
