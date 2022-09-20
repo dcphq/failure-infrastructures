@@ -1,5 +1,7 @@
-@import url(//fonts.googleapis.com/css?family=Open+Sans);
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+</style>
 
 body {
-  font-family: 'Open+Sans', Fallback, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
 }
