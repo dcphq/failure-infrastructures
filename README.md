@@ -267,6 +267,9 @@ url=/img/evros.jfif>
 
 Whether by design or not, mobility control infrastructures are as much about porousness as about solidity. From Lesvos to Ceuta and Arizona, migrants and refugees come up with new ways to navigate increasingly militarized landscapes and seascapes or seek help and rescue. They follow policy shifts and infrastructural changes with a responsive resilience, always looking for safer routes and conditions. In 2018, as Moria was increasingly becoming unsafe, a local teacher took the initiative of setting up a makeshift school with plywood and tin roofs in a safe location a few miles from the camp. The school, named “Stand by Me,” provided safety and a sense of normalcy for women and children in response to the infrastructural collapse of the camp.
 
+<param ve-video 
+id="ZvT6WiTy08E">
+
 To acknowledge the malleability of border infrastructures is not to dismiss the lethal and debilitating violence they produce. Rethinking these infrastructures as adaptive, deteriorating, or shifting helps paint a more accurate picture of the intrinsic ways in which they operate. It also helps shift from a view of "people on the move" having to overcome fixed, unchanged infrastructures to a more nuanced understanding of border surveillance assemblages that, themselves, move and follow border-crossers. These infrastructures grow and expand, or, when needed, recede and retract. As a matter of fact, the ability to deploy, disassemble and reassemble, to be both visible and invisible, is what makes these infrastructures effective. 
 
 click on [about](https://github.com/dimaterialist/failure-infrastructures/blob/main/README.md#on-the-brink--collapse-as-code)
