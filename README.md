@@ -219,7 +219,7 @@ Recent scholarly, activist, and independent journalism projects [^27] have focus
 
 <param ve-image 
 title="Moria, 2015.""
-url=/img/Moria_2015_8.JPG>
+url=/img/Moria_2015_4.JPG>
 
 ## INFRASTRUCTURAL DUALITIES
 
