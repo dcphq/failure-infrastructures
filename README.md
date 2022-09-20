@@ -245,7 +245,8 @@ What keeps asylum seekers in limbo is not just the lack of care, repair, or reso
 >
 
 <param ve-image 
-url=/img/intro_image_3_recolor.png>
+title= "Moria, 2015"
+url=/img/Moria_2015_5.JPG>
 
 In discussing the "infrastructural warfare" launched by Israel against Palestinians in Gaza, Puar expands the notion of debilitated bodies into debilitated infrastructures and landscapes. [^35]   Refugee camps in the Mediterranean present, of course, significant geographical, political, and operational differences. The concept of deliberate debilitation, however, as means of reaching a desired result, touches at the core of how some of these sites operate. Deliberately exposing migrants and refugees to risk of suffering, death and injury, or keeping them suspended in conditions of extreme precarity, is a way of exercising control over bodies, their ability to move and their sense of agency and dignity.
 
