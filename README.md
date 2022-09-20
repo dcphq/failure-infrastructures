@@ -228,8 +228,8 @@ url=/img/Moria_2015_4.JPG>
 In their study of refugee tents in Denmark, scholars Whyte, Campbell and Overgaard use a pair of terms to describe the seemingly paradoxical ways in which refugee camps operate: "spectacular obscurity" and "successful failure".[^29] "Spectacular obscurity" refers to the ways in which refugee camps are "presented as spectacle but their everyday functioning was explicitly obscured."[^30] "Successful failure" is used to describe how although "camp infrastructure was routinely failing, this formed the basis for its actual daily functioning." [^31] 
 
 <param ve-image 
-title= "Refugee camp, Denmark, November 2015, Photo: Henning Bagger/Ritzau Scanpix"
-url="https://apiwp.thelocal.com/wp-content/uploads/2019/09/2f35733822fc8dc399d96c81c13257d79aef4bfad6a320fc65149afeb2aaedda-768x511.jpg">
+title= "Refugee camp, Denmark. Photo: EPA/Sara Gangsted"
+url="https://scd.infomigrants.net/media/resize/my_image_big/91de5243ea06de1dc410d70caaa906fbae9f0d81.jpg">
 
 Both of these concepts are useful in trying to understand the multiple levels on which refugee camps, asylum shelters or hotspots operate. In the case of Moria, while the site was often at the forefront of media attention, what was obscured, at the same time, were the bureaucratic, mundane tasks at the heart of its critical mission: identifying, screening, sorting, and processing bodies, languages, ethnicities, and vulnerabilities. These were the bureaucratic tasks causing massive bottlenecks that kept thousands of people in suspended uncertainty. 
 
