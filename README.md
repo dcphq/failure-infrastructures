@@ -183,7 +183,8 @@ url=/img/Moria_2015_7.JPG>
 In October 2020, the Greek authorities broke ground for a new "closed-type” refugee camp, not too far from Moria, with funding from the European Commission. [^23] The new camp, located in a former Greek Army shooting range, was planned to host 2,500 migrants and refugees. As soon as the first winter came, it was clear that the new site, built on gravel by the sea, with no trees or vegetation, was exposed to floods and winds. However, the closed, more contained type of camp with increased security screening that kept migrants and refugees out of sight, was welcomed by state authorities as well as some locals, especially following the chaotic destruction of Moria and the protests that followed. The new camp is already called by camp occupants, officers, and locals, not without a sense of sarcasm, "Moria 2." 
 
 
-
+<param ve-video 
+id="Vluh1nX0ic?start=45">
 
 
 # COLLAPSE CAMOUFLAGE: THE TACTICAL (IN)VISIBILITY OF BORDER VIOLENCE {: #invisibility }
