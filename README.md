@@ -26,7 +26,7 @@ AND THE GLOBAL BORDER REGIME"
 
 ### About
 
-This is an inteactive essay. Scroll down to trigger media on the right screen. Click on underlined names and footnotes for additional info. Jump to sections: [1. "On the Brink: Collapse as Code."](#brink) / [2. "Preventable Ruins: Material Collapse."](#ruins) / ["3. Collapse Camouflage: the Tactical (In)visiblity of Border Violence"](#invisibility) / ["4. When the Fortress Folds: Note on Resilience and Counter-Tactics"](#resilience).
+This is an inteactive essay. Scroll down to trigger media on the right. Click on underlined names and footnotes for additional info. Jump to sections: [1. "On the Brink: Collapse as Code."](#brink) / [2. "Preventable Ruins: Material Collapse."](#ruins) / ["3. Collapse Camouflage: the Tactical (In)visiblity of Border Violence"](#invisibility) / ["4. When the Fortress Folds: Note on Resilience and Counter-Tactics"](#resilience).
 
 
 
@@ -42,9 +42,7 @@ url=/img/intro_image_3.png>
 # ON THE BRINK: COLLAPSE AS CODE {: #brink }
 
 
-In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1]tasked to "*address and allay legitimate fears and concerns about the impact of irregular migration on our economy and society*."[^2]
-
-"Our way of life" as code for whiteness that is constantly subject to the external threat of irregular migration is nothing new. The U.S. Customs and Border Protection website informs users that "*the U.S. Border Patrol has a long and rich history of helping to secure and protect the American way of life.*"[^3] 
+In September 2019, Ursula von der Leyen, then President-Elect of the European Commission, announced new policy portfolios including one for the "Protection of our European Way of Life"[^1]tasked to "*address and allay legitimate fears and concerns about the impact of irregular migration on our economy and society*."[^2]"Our way of life" as code for whiteness that is constantly subject to the external threat of irregular migration is nothing new. The U.S. Customs and Border Protection website informs users that "*the U.S. Border Patrol has a long and rich history of helping to secure and protect the American way of life.*"[^3] 
 
 <param ve-video id="nf2rTb49H1c?start=12">
 
