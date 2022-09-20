@@ -232,7 +232,14 @@ url=/img/intro_image_3_recolor.png>
 
 Both of these concepts are useful in trying to understand the multiple levels on which refugee camps, asylum shelters or hotspots operate. In the case of Moria, while the site was often at the forefront of media attention, what was obscured, at the same time, were the bureaucratic, mundane tasks at the heart of its critical mission: identifying, screening, sorting, and processing bodies, languages, ethnicities, and vulnerabilities. These were the bureaucratic tasks causing massive bottlenecks that kept thousands of people in suspended uncertainty. 
 
+
+<param ve-image 
+url=/img/intro_image_3_recolor.png>
+
 The second concept, that of "successful failure," captures the slow, accumulative effect of daily small failures in a refugee camp: "minor, infrastructural failures, such as showers with only burning hot or cold water, poor temperature regulation in tents, dirty toilets (...) these failures did not so much call for repair and maintenance, as they did for evasion and circumvention."[^32] These daily failures and struggles, despite differences in living conditions, are familiar to thousands of asylum seekers, from the Danish refugee tent camps to the Calais "jungle.” On a performative level, such failures communicate both to camp occupants and to external observers that conditions are meant to be harsh as a deterrence signal.  On a strategic level, these never repaired failures, which often raise tensions or trigger protests in the camps, are used by authorities to impose more restrictive measures. 
+
+<param ve-image 
+url=/img/intro_image_3_recolor.png>
 
 What keeps asylum seekers in limbo is not just the lack of care, repair, or resources, but also the targeted ways in which humanitarian care is administered. Care, provided in hotspots based on "vulnerabilities" and other taxonomies, reinforces "hierarchies of mobility."[^33] Channeling Jasbir Puar's concept of "deliberate debilitation" as biopolitical strategy, Polly Pallister Wilkins notes: 
 
@@ -240,7 +247,13 @@ What keeps asylum seekers in limbo is not just the lack of care, repair, or reso
 > *hotspots work with particular — yet partial — forms of humanitarian relief to produce racialised regimes of differential mobility and marginalised, unequal, and debilitated life. That is, human life not considered equal but at the same time not allowed to die, alongside life subjected to regimes of legibility and registration that (re)produce racialised populations within a framework of recognition reaffirming European white supremacy.* [^34] 
 >
 
+<param ve-image 
+url=/img/intro_image_3_recolor.png>
+
 In discussing the "infrastructural warfare" launched by Israel against Palestinians in Gaza, Puar expands the notion of debilitated bodies into debilitated infrastructures and landscapes. [^35]   Refugee camps in the Mediterranean present, of course, significant geographical, political, and operational differences. The concept of deliberate debilitation, however, as means of reaching a desired result, touches at the core of how some of these sites operate. Deliberately exposing migrants and refugees to risk of suffering, death and injury, or keeping them suspended in conditions of extreme precarity, is a way of exercising control over bodies, their ability to move and their sense of agency and dignity.
+
+<param ve-image 
+url=/img/intro_image_3_recolor.png>
 
 The lack, or denial of care can take extreme forms within migration control infrastructures. As I am writing these lines, independent news media are still reporting details of an incident on the mainland border between Greece and Turkey. In early August 2022, a group of refugees were stranded on an islet on the river of Evros on the Greek-Turkish border. Following calls from international organizations, Greece refused help or to rescue the group, claiming that the islet was not part of Greek territory, even after reports that a five-year-old girl died due to complications from a scorpion bite. When eventually the stranded group managed to cross into the Greek mainland, the Greek government acknowledged the incident and the death of the five-year old girl but didn't miss the opportunity to blame the Turkish side for enabling and weaponizing border-crossers as a factor of destabilization. Although the incident is still being investigated, what is striking is the willingness to waive territorial control or jurisdiction as a means of denying responsibility and humanitarian aid. In this highly surveilled border region, recently equipped with miles of new border fence and surveillance technologies, the Greek authorities refused to see and recognize the group of refugees.[^36]  This calculated inaction and jurisdictional and infrastructural withdrawal left the border-crossers stranded and exposed to deadly, unnecessary risk. [^37] 
 
