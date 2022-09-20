@@ -197,7 +197,8 @@ Discussing a 2018 court order to reunite migrant families separated during Trump
 
 
 <param ve-image 
-url=/img/intro_image_3_tint.png>
+title="Thermal Imaging promotional image by surveillance technology provider Teledyne Flir"
+url="https://www.flir.com/globalassets/industrial/discover/public-safety/improving-border-security-with-flir-thermal-imaging/border-security-01.jpg">
 
 Moria’s destruction was seen and witnessed in all its spectacular failure across Europe and the rest of the world. But it was not recognized for all the harm, trauma, death, and injury that it caused to asylum seekers for years. And it was definitely not recognized by the Greek state and European authorities as the immediate result of the hotspot approach that made a site like Moria even thinkable. The attitude of state authorities towards hotspots intentionally swings between concealment and hyper-visibility. Pushed to their capacity limits, hotspots are kept in operation even as they cause suffering to their occupants. In moments of crisis when the sites become inescapably visible, official narratives propagate the images of destruction to fuel anti-migrant sentiments and, eventually, justify more rigid security and detainment measures. Moria's spectacular collapse was seen as an exceptional, dramatic moment, a monumental failure. This, however, was a distraction that was used to justify an escalation of mobility restriction and border securitization on multiple levels.
 
