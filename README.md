@@ -228,7 +228,8 @@ url=/img/Moria_2015_4.JPG>
 In their study of refugee tents in Denmark, scholars Whyte, Campbell and Overgaard use a pair of terms to describe the seemingly paradoxical ways in which refugee camps operate: "spectacular obscurity" and "successful failure".[^29] "Spectacular obscurity" refers to the ways in which refugee camps are "presented as spectacle but their everyday functioning was explicitly obscured."[^30] "Successful failure" is used to describe how although "camp infrastructure was routinely failing, this formed the basis for its actual daily functioning." [^31] 
 
 <param ve-image 
-url=/img/intro_image_3_recolor.png>
+title= Refugee camp, Denmark, November 2015, Photo: Henning Bagger/Ritzau Scanpix
+url="https://apiwp.thelocal.com/wp-content/uploads/2019/09/2f35733822fc8dc399d96c81c13257d79aef4bfad6a320fc65149afeb2aaedda-768x511.jpg">
 
 Both of these concepts are useful in trying to understand the multiple levels on which refugee camps, asylum shelters or hotspots operate. In the case of Moria, while the site was often at the forefront of media attention, what was obscured, at the same time, were the bureaucratic, mundane tasks at the heart of its critical mission: identifying, screening, sorting, and processing bodies, languages, ethnicities, and vulnerabilities. These were the bureaucratic tasks causing massive bottlenecks that kept thousands of people in suspended uncertainty. 
 
@@ -258,7 +259,7 @@ url=/img/intro_image_3_recolor.png>
 The lack, or denial of care can take extreme forms within migration control infrastructures. As I am writing these lines, independent news media are still reporting details of an incident on the mainland border between Greece and Turkey. In early August 2022, a group of refugees were stranded on an islet on the river of Evros on the Greek-Turkish border. Following calls from international organizations, Greece refused help or to rescue the group, claiming that the islet was not part of Greek territory, even after reports that a five-year-old girl died due to complications from a scorpion bite. When eventually the stranded group managed to cross into the Greek mainland, the Greek government acknowledged the incident and the death of the five-year old girl but didn't miss the opportunity to blame the Turkish side for enabling and weaponizing border-crossers as a factor of destabilization. Although the incident is still being investigated, what is striking is the willingness to waive territorial control or jurisdiction as a means of denying responsibility and humanitarian aid. In this highly surveilled border region, recently equipped with miles of new border fence and surveillance technologies, the Greek authorities refused to see and recognize the group of refugees.[^36]  This calculated inaction and jurisdictional and infrastructural withdrawal left the border-crossers stranded and exposed to deadly, unnecessary risk. [^37] 
 
 <param ve-image 
-title="Source: Giorgos Christides [https://twitter.com/g_christides/status/1550949144365334532/photo/1](https://twitter.com/g_christides/status/1550949144365334532/photo/1), Twitter"
+title="Source: Giorgos Christides, Twitter"
 url=/img/evros.jfif>
 
 # WHEN THE FORTRESS FOLDS: NOTE ON RESILIENCE AND COUNTER-TACTICS {: #resilience }
