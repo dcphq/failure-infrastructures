@@ -26,7 +26,7 @@ AND THE GLOBAL BORDER REGIME"
 
 ### About
 
-This is an inteactive essay. Scroll down to trigger media on the right. Click on underlined names and footnotes for additional info. Jump to sections: [1. "On the Brink: Collapse as Code."](#brink) / [2. "Preventable Ruins: Material Collapse."](#ruins) / ["3. Collapse Camouflage: the Tactical (In)visiblity of Border Violence"](#invisibility) / ["4. When the Fortress Folds: Note on Resilience and Counter-Tactics"](#resilience).
+This is an interactive essay. Scroll down to trigger media on the right. Click on underlined names and footnotes for additional info. Jump to sections: [1. "On the Brink: Collapse as Code."](#brink) / [2. "Preventable Ruins: Material Collapse."](#ruins) / ["3. Collapse Camouflage: the Tactical (In)visiblity of Border Violence"](#invisibility) / ["4. When the Fortress Folds: Note on Resilience and Counter-Tactics"](#resilience).
 
 
 
