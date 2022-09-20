@@ -197,12 +197,14 @@ Discussing a 2018 court order to reunite migrant families separated during Trump
 
 
 <param ve-image 
-label="Moria, 2015"
 url=/img/intro_image_3_tint.png>
 
 Moria’s destruction was seen and witnessed in all its spectacular failure across Europe and the rest of the world. But it was not recognized for all the harm, trauma, death, and injury that it caused to asylum seekers for years. And it was definitely not recognized by the Greek state and European authorities as the immediate result of the hotspot approach that made a site like Moria even thinkable.
 
 The attitude of state authorities towards hotspots intentionally swings between concealment and hyper-visibility. Pushed to their capacity limits, hotspots are kept in operation even as they cause suffering to their occupants. In moments of crisis when the sites become inescapably visible, official narratives propagate the images of destruction to fuel anti-migrant sentiments and, eventually, justify more rigid security and detainment measures. Moria's spectacular collapse was seen as an exceptional, dramatic moment, a monumental failure. This, however, was a distraction that was used to justify an escalation of mobility restriction and border securitization on multiple levels.
+
+<param ve-video 
+id="NS5avTMy8vM?start=21">
 
 Although not all refugee camps are built with the same provisions in place for relatively safe living conditions, crises in such sites are not unexpected. The moment of collapse  in the case of Moria was the culmination of the ways in which it operated for years. The shocking effect of its fiery destruction and of the displacement of its inhabitants was effective as a media event, in terms of triggering anti-migrant political discourse and reactions by local communities. Whether in the context of the European hotspot approach or the "prevention through deterrence" doctrine in the U.S., the spectacle of violence and suffering in refugee camps, often fetishized to anaesthetization extremes, is perceived, itself, as a threat, rather as the immediate result of specific, calculated policies.
 
