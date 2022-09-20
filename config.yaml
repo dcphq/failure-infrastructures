@@ -7,8 +7,8 @@ banner: /img/tonermap.png
 
 # When using a custom domain these fields must be updated to match
 # the Github account and repository name
-acct: <GitHub account/dimaterialist>
-repo: <failure-infrastructures>
+#acct: <GitHub account/username>
+#repo: <GitHub repository>
 
 ######################################################
 # Defines options shown in the header navigation menu
