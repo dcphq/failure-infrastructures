@@ -225,17 +225,12 @@ url=/img/Moria_2015_4.JPG>
 
 
 
-In their study of refugee tents in Denmark, scholars Whyte, Campbell and Overgaard use a pair of terms to describe the seemingly paradoxical ways in which refugee camps operate: "spectacular obscurity" and "successful failure".[^29] "Spectacular obscurity" refers to the ways in which refugee camps are "presented as spectacle but their everyday functioning was explicitly obscured."[^30] "Successful failure" is used to describe how although "camp infrastructure was routinely failing, this formed the basis for its actual daily functioning." [^31] 
+In their study of refugee tents in Denmark, scholars Whyte, Campbell and Overgaard use a pair of terms to describe the seemingly paradoxical ways in which refugee camps operate: "spectacular obscurity" and "successful failure".[^29] "Spectacular obscurity" refers to the ways in which refugee camps are "presented as spectacle but their everyday functioning was explicitly obscured."[^30] "Successful failure" is used to describe how although "camp infrastructure was routinely failing, this formed the basis for its actual daily functioning." [^31] Both of these concepts are useful in trying to understand the multiple levels on which refugee camps, asylum shelters or hotspots operate. In the case of Moria, while the site was often at the forefront of media attention, what was obscured, at the same time, were the bureaucratic, mundane tasks at the heart of its critical mission: identifying, screening, sorting, and processing bodies, languages, ethnicities, and vulnerabilities. These were the bureaucratic tasks causing massive bottlenecks that kept thousands of people in suspended uncertainty. 
 
 <param ve-image 
 title= "Moria, 2015"
 url=/img/Moria_2015_6.JPG>
 
-Both of these concepts are useful in trying to understand the multiple levels on which refugee camps, asylum shelters or hotspots operate. In the case of Moria, while the site was often at the forefront of media attention, what was obscured, at the same time, were the bureaucratic, mundane tasks at the heart of its critical mission: identifying, screening, sorting, and processing bodies, languages, ethnicities, and vulnerabilities. These were the bureaucratic tasks causing massive bottlenecks that kept thousands of people in suspended uncertainty. 
-
-
-<param ve-image 
-url=/img/intro_image_3_recolor.png>
 
 The second concept, that of "successful failure," captures the slow, accumulative effect of daily small failures in a refugee camp: "minor, infrastructural failures, such as showers with only burning hot or cold water, poor temperature regulation in tents, dirty toilets (...) these failures did not so much call for repair and maintenance, as they did for evasion and circumvention."[^32] These daily failures and struggles, despite differences in living conditions, are familiar to thousands of asylum seekers, from the Danish refugee tent camps to the Calais "jungle.” On a performative level, such failures communicate both to camp occupants and to external observers that conditions are meant to be harsh as a deterrence signal.  On a strategic level, these never repaired failures, which often raise tensions or trigger protests in the camps, are used by authorities to impose more restrictive measures. 
 
