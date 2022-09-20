@@ -160,7 +160,7 @@ url=/img/Moria_2018_general_view.jpg>
 On September 8, 2020, multiple fires erupted in the camp, setting tents and containers ablaze. Only a few tents survived. The rest of the camp was destroyed, causing the displacement, overnight, of nearly 13,000 people. Greek authorities blamed six asylum seekers protesting Covid 19 quarantine measures for the fires. In June 2021, four Afghans were sentenced to ten years in prison for arson with risk to human life, despite objections over the evidence and requests by the lawyers to be tried by a juvenile court. [^19]
 
 ```
-On the right: satellite images of Moria before and after the first, in early September 2020. Hover over the image and move right/left to compare layers.
+On the right: satellite images of Moria before and after the fire, in early September 2020. Hover over the image and move right/left to compare layers.
 ```
 
 
