@@ -26,7 +26,7 @@ AND THE GLOBAL BORDER REGIME"
 
 ### About
 
-This is an inteactive essay. Scroll down to trigger media on the right screen. Click on underlined names and footnotes for additional info. Jump to sections: ["On the Brink: Collapse as Code."](#brink), . 
+This is an inteactive essay. Scroll down to trigger media on the right screen. Click on underlined names and footnotes for additional info. Jump to sections: ["On the Brink: Collapse as Code."](#brink), ["Preventable Ruins: Material Collapse."](#ruins), ["Collapse Camouflage: the Tactical (In)visiblity of Border Violence"](#invisibility), ["When the Fortress Folds: Note on Resilience and Counter-Tactics"](#note).
 
 
 
@@ -82,7 +82,7 @@ id="8UpvU2utUZU">
 
 
 
-# PREVENTABLE RUINS: MATERIAL COLLAPSE
+# PREVENTABLE RUINS: MATERIAL COLLAPSE {: #ruins }
 
 
 
@@ -179,7 +179,7 @@ In October 2020, the Greek authorities broke ground for a new "closed-type” re
 
 
 
-# **COLLAPSE CAMOUFLAGE: THE TACTICAL (IN)VISIBILITY OF BORDER VIOLENCE**
+# COLLAPSE CAMOUFLAGE: THE TACTICAL (IN)VISIBILITY OF BORDER VIOLENCE {: #invisibility }
 
 ------
 
@@ -224,7 +224,7 @@ In discussing the "infrastructural warfare" launched by Israel against Palestini
 
 The lack, or denial of care can take extreme forms within migration control infrastructures. As I am writing these lines, independent news media are still reporting details of an incident on the mainland border between Greece and Turkey. In early August 2022, a group of refugees were stranded on an islet on the river of Evros on the Greek-Turkish border. Following calls from international organizations, Greece refused help or to rescue the group, claiming that the islet was not part of Greek territory, even after reports that a five-year-old girl died due to complications from a scorpion bite. When eventually the stranded group managed to cross into the Greek mainland, the Greek government acknowledged the incident and the death of the five-year old girl but didn't miss the opportunity to blame the Turkish side for enabling and weaponizing border-crossers as a factor of destabilization. Although the incident is still being investigated, what is striking is the willingness to waive territorial control or jurisdiction as a means of denying responsibility and humanitarian aid. In this highly surveilled border region, recently equipped with miles of new border fence and surveillance technologies, the Greek authorities refused to see and recognize the group of refugees.[^36]  This calculated inaction and jurisdictional and infrastructural withdrawal left the border-crossers stranded and exposed to deadly, unnecessary risk. [^37] 
 
-# WHEN THE FORTRESS FOLDS: NOTE ON RESILIENCE AND COUNTER-TACTICS
+# WHEN THE FORTRESS FOLDS: NOTE ON RESILIENCE AND COUNTER-TACTICS {: #resilience }
 
 ------
 
