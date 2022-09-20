@@ -159,10 +159,14 @@ url=/img/Moria_2018_general_view.jpg>
 
 On September 8, 2020, multiple fires erupted in the camp, setting tents and containers ablaze. Only a few tents survived. The rest of the camp was destroyed, causing the displacement, overnight, of nearly 13,000 people. Greek authorities blamed six asylum seekers protesting Covid 19 quarantine measures for the fires. In June 2021, four Afghans were sentenced to ten years in prison for arson with risk to human life, despite objections over the evidence and requests by the lawyers to be tried by a juvenile court. [^19]
 
+```
+On the right: satellite images of Moria before and after the first, in early September 2020. Hover over the image and move right/left to compare layers.
+```
 
 
-<param ve-compare curtain url=/img/Sep4.jpeg label="Satellite Image 1" description="Satellite Image 1" attribution="Satellite Image 1">
-<param ve-compare url=img/Sep9.jpeg label="Satellite Image 2" description="Satellite Image 2">
+
+<param ve-compare curtain url=/img/Sep4.jpeg label="Satellite image of Moria, September 4" description="Satellite image of Moria, September 4" attribution="Satellite Image 1">
+<param ve-compare url=img/Sep9.jpeg label="Satellite image of Moria, September 9" description="Satellite image of Moria, September 9">
 
 
 
