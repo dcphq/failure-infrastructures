@@ -259,7 +259,7 @@ The lack, or denial of care can take extreme forms within migration control infr
 
 <param ve-image 
 title="Source: Giorgos Christides, Twitter"
-url=/img/evros.jpg>
+url=/img/evros.jfif>
 
 # WHEN THE FORTRESS FOLDS: NOTE ON RESILIENCE AND COUNTER-TACTICS {: #resilience }
 
