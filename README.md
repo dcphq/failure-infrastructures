@@ -272,21 +272,13 @@ id="ZvT6WiTy08E">
 
 To acknowledge the malleability of border infrastructures is not to dismiss the lethal and debilitating violence they produce. Rethinking these infrastructures as adaptive, deteriorating, or shifting helps paint a more accurate picture of the intrinsic ways in which they operate. It also helps shift from a view of "people on the move" having to overcome fixed, unchanged infrastructures to a more nuanced understanding of border surveillance assemblages that, themselves, move and follow border-crossers. These infrastructures grow and expand, or, when needed, recede and retract. As a matter of fact, the ability to deploy, disassemble and reassemble, to be both visible and invisible, is what makes these infrastructures effective. 
 
-At the same time, to say that border control infrastructures are retractable or collapsible helps illuminate the artificial, selective, and reversible nature of their very existence. 
+<param ve-video 
+id="EMDCpKRCScI">
 
-<param ve-iframe src="https://uni.xyz/projects/house-of-hope-desc-the-project-in-ifoken/">
+At the same time, to say that border control infrastructures are retractable or collapsible helps illuminate the artificial, selective, and reversible nature of their very existence. To think of collapse not as a permanent state but as a counter-tactical conceptual device can help shift focus towards more strategic refugee support and solidarity approaches centered around questions of power, agency, and legitimacy. In this sense, we can think of collapse not as an irreversible condition but as a conditional reversal of racist and xenophobic policies enabled through alliance networks and collective action.
 
-
-
-To think of collapse not as a permanent state but as a counter-tactical conceptual device can help shift focus towards more strategic refugee support and solidarity approaches centered around questions of power, agency, and legitimacy. In this sense, we can think of collapse not as an irreversible condition but as a conditional reversal of racist and xenophobic policies enabled through alliance networks and collective action.
-
-<param ve-iframe src=https://open.spotify.com/embed/episode/2j23dCMGQJDX2vSTS1QuqC?utm_source=generator&t=80" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
-
-
-# **Author's note**
-
-I would like to thank Katerina Stefatos, my field collaborator in the Moria camp, and Lindsay French for their feedback and discussions that helped articulate some of the points made in this essay. I would also like to thank Marisa Brown at the Center for Complexity, Rhode Island School of Design, for patiently helping improve different versions of this text.
-
+<param ve-video 
+id="kyDpXONAKtA">
 
 
 # Notes
