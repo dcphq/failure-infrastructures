@@ -252,7 +252,7 @@ In discussing the "infrastructural warfare" launched by Israel against Palestini
 
 <param ve-image 
 title= "Satellite view, Moria, September 9, 2020"
-url=/img/Sep9.Jpeg>
+url=/img/Sep9.jpeg>
 
 The lack, or denial of care can take extreme forms within migration control infrastructures. As I am writing these lines, independent news media are still reporting details of an incident on the mainland border between Greece and Turkey. In early August 2022, a group of refugees were stranded on an islet on the river of Evros on the Greek-Turkish border. Following calls from international organizations, Greece refused help or to rescue the group, claiming that the islet was not part of Greek territory, even after reports that a five-year-old girl died due to complications from a scorpion bite. When eventually the stranded group managed to cross into the Greek mainland, the Greek government acknowledged the incident and the death of the five-year old girl but didn't miss the opportunity to blame the Turkish side for enabling and weaponizing border-crossers as a factor of destabilization. Although the incident is still being investigated, what is striking is the willingness to waive territorial control or jurisdiction as a means of denying responsibility and humanitarian aid. In this highly surveilled border region, recently equipped with miles of new border fence and surveillance technologies, the Greek authorities refused to see and recognize the group of refugees.[^36]  This calculated inaction and jurisdictional and infrastructural withdrawal left the border-crossers stranded and exposed to deadly, unnecessary risk. [^37] 
 
