@@ -215,7 +215,11 @@ This hyper-visibility of violence and destruction serves as a distraction from t
 
 <param ve-iframe id="frontex" src= 'https://flo.uri.sh/visualisation/11228325/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>>style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> >
 
-Recent scholarly, activist, and independent journalism projects [^27] have focused on "soft" structures, non-human actors, networks and assemblages of the border violence and surveillance regime that are less traceable, and concealed, sometimes, under what Eyal Weizman has called the "threshold of detectability."[^28] Even as state actors performatively, or even celebratorily, announce new walls, fences, and "hotspots", the scrutiny over other types of operations or infrastructures like pushbacks in the Mediterranean or undisclosed surveillance systems, is unwanted as it may reveal human rights violations and raise claims for justice and accountability.  
+Recent scholarly, activist, and independent journalism projects [^27] have focused on "soft" structures, non-human actors, networks and assemblages of the border violence and surveillance regime that are less traceable, and concealed, sometimes, under what Eyal Weizman has called the "threshold of detectability."[^28] Even as state actors performatively, or even celebratorily, announce new walls, fences, and "hotspots", the scrutiny over other types of operations or infrastructures like pushbacks in the Mediterranean or undisclosed surveillance systems, is unwanted as it may reveal human rights violations and raise claims for justice and accountability. 
+
+<param ve-image 
+title="Moria, 2015.""
+url=/img/Moria_2015_5.JPG>
 
 ## INFRASTRUCTURAL DUALITIES
 
