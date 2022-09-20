@@ -1,6 +1,5 @@
 body {
   font-family: 'Carrois Gothic', sans-serif;
-  src: url(/fonts/CarroisGothic-Regular.ttf);
   margin: 0;
   background-color: black;
   color: #444;
@@ -11,7 +10,6 @@ h1 {
   margin: 1rem 0;
   font-size: 2.5rem;
   font-family: 'CarroisGothic', sans-serif;
-  src: url(/fonts/CarroisGothic-Regular.ttf);
   -weight: normal;
   line-height: 1;
 }
