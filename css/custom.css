@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'carrois_gothicregular';
-    src: url('dimaterialist.github.io/failure-infrastructures/css/fonts/carroisgothic-regular-webfont.woff2') format('woff2'),
-         url('dimaterialist.github.io/failure-infrastructures/css/fonts/carroisgothic-regular-webfont.woff') format('woff');
+    src: url('/css/fonts/carroisgothic-regular-webfont.woff2') format('woff2'),
+         url('/css/fonts/carroisgothic-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
