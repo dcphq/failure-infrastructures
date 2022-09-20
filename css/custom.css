@@ -10,3 +10,7 @@
        url('../fonts/carrois-gothic-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/carrois-gothic-v16-latin-regular.svg#CarroisGothic') format('svg'); /* Legacy iOS */
 }
+
+body {
+  font-family: 'Carrois Gothic', Fallback, sans-serif;
+}
