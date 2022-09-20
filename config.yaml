@@ -22,6 +22,9 @@ nav:
 # If a contact-us action is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
 contactForm:
+  from: 
   to:
-  - Dimitris Papadopoulos <dpapadop@risd.edu>
+  - dpapadop@risd.edu
+  # - Dimitris Papadopoulos <dpapadop@risd.edu>
   subject: Collapse
+
