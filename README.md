@@ -235,7 +235,8 @@ url=/img/Moria_2015_6.JPG>
 The second concept, that of "successful failure," captures the slow, accumulative effect of daily small failures in a refugee camp: "minor, infrastructural failures, such as showers with only burning hot or cold water, poor temperature regulation in tents, dirty toilets (...) these failures did not so much call for repair and maintenance, as they did for evasion and circumvention."[^32] These daily failures and struggles, despite differences in living conditions, are familiar to thousands of asylum seekers, from the Danish refugee tent camps to the Calais "jungle.” On a performative level, such failures communicate both to camp occupants and to external observers that conditions are meant to be harsh as a deterrence signal.  On a strategic level, these never repaired failures, which often raise tensions or trigger protests in the camps, are used by authorities to impose more restrictive measures. 
 
 <param ve-image 
-url=/img/intro_image_3_recolor.png>
+title= "Moria, 2015"
+url=/img/Moria_2015_debris.JPG>
 
 What keeps asylum seekers in limbo is not just the lack of care, repair, or resources, but also the targeted ways in which humanitarian care is administered. Care, provided in hotspots based on "vulnerabilities" and other taxonomies, reinforces "hierarchies of mobility."[^33] Channeling Jasbir Puar's concept of "deliberate debilitation" as biopolitical strategy, Polly Pallister Wilkins notes: 
 
