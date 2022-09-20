@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Carrois Gothic';
+    src: url('CarroisGothic-Regular.eot');
+    src: url('CarroisGothic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CarroisGothic-Regular.woff2') format('woff2'),
+        url('CarroisGothic-Regular.woff') format('woff'),
+        url('CarroisGothic-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
